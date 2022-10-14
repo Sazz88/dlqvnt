@@ -109,11 +109,6 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria (B)
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria (C)
-http://iptv12k.com:35461/17501083101/524668/735
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="MALAYSIA",Astro Prima
@@ -122,7 +117,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima (B)" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="MALAYSIA",Astro Prima (B)
-http://iptv12k.com:35461/17501083101/524668/734
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157467
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna (A)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Astro Warna (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -593,13 +588,8 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS WORLD (A)" tvg-logo="https://www.logotypes101.com/logos/441/93B57FB108E9BF746E85D398B26E628B/kbsworld.png" group-title="KOREA",KBS WORLD (A)
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS WORLD" tvg-logo="https://www.logotypes101.com/logos/441/93B57FB108E9BF746E85D398B26E628B/kbsworld.png" group-title="KOREA",KBS WORLD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS WORLD (B)" tvg-logo="https://www.logotypes101.com/logos/441/93B57FB108E9BF746E85D398B26E628B/kbsworld.png" group-title="KOREA",KBS WORLD (B)
-http://iptv12k.com:35461/17501083101/524668/713
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
@@ -623,23 +613,8 @@ http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/78447
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="KOREA",KBS 1
-http://183.103.92.224:9981/stream/channelid/1687337533?ticket=0193618DAAE809D041E3CC165EEDD93296AC9652&profile=pass
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-name="KBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="KOREA",KBS 2
-http://183.103.92.224:9981/stream/channelid/1167178531?ticket=2EC89D6C9A43A7A3EDAD52877436251EF1278803&profile=pass
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0 tvg-id="MBCTV.kr" tvg-name="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" group-title="KOREA",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="SBSTV.kr" tvg-name="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="KOREA",SBS
-http://183.103.92.224:9981/stream/channelid/1752961802?ticket=1C3A696EEB6F43F735C157526078862187A5C528&profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
@@ -846,7 +821,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
 #EXTINF:-1 tvg-id="707" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="LIFESTYLE",TLC
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
-#EXTINF:-1 tvg-id="123" group-title="MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 tvg-id="123" group-title="NEWS" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="INews.id" tvg-name="iNews" tvg-logo="https://i.ibb.co/cTxMPTx/inews.png" group-title="NEWS",iNews
