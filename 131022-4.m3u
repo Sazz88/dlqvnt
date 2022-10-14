@@ -48,12 +48,10 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="MALAYSIA",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MALAYSIA",TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9(B)" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MALAYSIA",TV9(B)
-http://iptv12k.com:35461/17501083101/524668/737
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MALAYSIA",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-logo="https://i.ibb.co/3T4Twcg/TVS.png" group-title="MALAYSIA",TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,13 +86,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="MALAYSIA",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="NEWS",Astro Awani
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani(B)" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="MALAYSIA",Astro Awani(B)
-http://iptv12k.com:35461/17501083101/524668/724
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="MALAYSIA",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -172,7 +165,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #https://links.aqfadtv.xyz/rania.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Boo.my" tvg-name="Astro BOO (M)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="MALAYSIA",Astro BOO (M)
+#EXTINF:-1 tvg-id="AstroAura" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="MOVIES",BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/manifest.mpd
@@ -848,6 +846,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
 #EXTINF:-1 tvg-id="707" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="LIFESTYLE",TLC
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
+#EXTINF:-1 tvg-id="123" group-title="MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
+
 #EXTINF:-1 tvg-id="INews.id" tvg-name="iNews" tvg-logo="https://i.ibb.co/cTxMPTx/inews.png" group-title="NEWS",iNews
 http://54.151.201.145:5566/GG/Live/INEWS/mpegts
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://i.ibb.co/VCsvKyP/wry.png" group-title="NEWS",TVOne
@@ -864,7 +865,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=17d5d79b705851bf7fb32a9021d56d10&key=839ae835984e66772b70621dd5d5318b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",513 Al Jazeera English HD
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=566e67da543c043f0fe2a5f371412910&key=0b997dec90bda7dd6f8f16d3fc914b6c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
