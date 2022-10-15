@@ -160,11 +160,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #https://links.aqfadtv.xyz/rania.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroAura" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
-
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="MOVIES",BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
