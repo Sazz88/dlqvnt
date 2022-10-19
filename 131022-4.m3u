@@ -856,7 +856,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",K-Drama
-http://203.77.246.50:5000/udp/239.1.1.76:5000
+#http://203.77.246.50:5000/udp/239.1.1.76:5000
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/35769
 
 -------------------DOCUMENTARY-------------------------------
