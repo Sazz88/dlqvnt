@@ -121,10 +121,8 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157467
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://links.aqfadtv.xyz/warna.mpd
-https://aqfadtv.xyz/live/warna/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
+https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCIj4a4zY_Unbjovl71R2OhQ=6-Vl/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
@@ -236,7 +234,7 @@ https://webudi.openhd.lol/ddy1/premium123/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2
-https://linears-playback.astro.com.my/vsg/41DivM9h2OBsHEZg5U_v5wuw--1R7WFaL0qY4M8CFMUZA=8-Ur/dash-wv/jitp-linearwm/2104/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41DivM9h2OBsHEZg5U_v5wuy-3v2QF5r_3vGAr9fUb5_U=scA0/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -246,7 +244,7 @@ https://webudi.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.1
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-https://linears-playback.astro.com.my/vsg/419ssZqUC1bRQS0_NkVQYeP3ZeDs8m41Ctk0QFILaqmnc=7DVf/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/419ssZqUC1bRQS0_NkVQYePwROyhhxaZOM83KxWWs_GDo=Y9Ay/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -578,7 +576,7 @@ http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/78452
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" group-title="MOVIES",HBO
-https://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-K1UYW5Ao3YIxVqffvre450=m1WA/dash-wv/jitp-linearwm/2304/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-Ivmk-DuK09Kwj27EWv95WE=Ohz0/dash-wv/jitp-linearwm/2304/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1061,10 +1059,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="K Pop Channel" tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png" group-title="MUSIC",K Pop Channel
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="CHN" group-title="MUSIC" ch-number="719" tvg-logo="https://aqfadtv.astradamy.com/logos/K-DAILY.png",719 K-DAILY TV
 https://asrazunifi.ddns.net:8443/dash/live.mpd
 
