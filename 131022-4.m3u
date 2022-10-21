@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/rtmklik.rtm.gov.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/rtmklik.rtm.gov.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,http://epg.clientportal.link/uk.xml.gz"
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
@@ -396,6 +396,39 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115617
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="AstroSuperSport4" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_4.png" group-title="SPORTS 2", Astro Supersport 4 HD
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115618
+
+----------------SPORTS XTRA---------------------
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://ia600804.us.archive.org/2/items/BtSport1Hd_201708/bt%20sport%201%20hd.png" group-title="SPORTS XTRA",BT Sport 1 UK
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/370
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://archive.org/download/BtSport2Hd/bt%20sport%202%20hd.png" group-title="SPORTS XTRA",BT Sport 2 UK
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/368
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://archive.org/download/BtSport3/bt%20sport%203.png" group-title="SPORTS XTRA",BT Sport 3 UK
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/366
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://ia800802.us.archive.org/19/items/BtSportExtra4/bt%20sport%20extra%204.png" group-title="SPORTS XTRA",BT Sport 4 UK
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1743
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.pinimg.com/originals/27/f2/7d/27f27d3765d7d5e518156dd1d4a52709.png" group-title="SPORTS XTRA",Eurosport 2 UK
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1811
+
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="SPORTS XTRA",Free Sports UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/50437
+
 
 --------------------KIDS------------------------
 
@@ -876,8 +909,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="CHN" group-title="MUSIC" ch-number="719" tvg-logo="https://aqfadtv.astradamy.com/logos/K-DAILY.png",719 K-DAILY TV
+#EXTINF:-1 tvg-id="CHN" group-title="MUSIC" ch-number="719" tvg-logo="https://aqfadtv.astradamy.com/logos/K-DAILY.png",K-DAILY TV
 https://asrazunifi.ddns.net:8443/dash/live.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="Kerrang.uk" group-title="MUSIC" ch-number="719" tvg-logo="https://ewsat.com/img/KERRANG.png",KERRANG! TV UK
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1928
 
 #EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="https://archive.org/download/music-club/music-club.jpg",MTV YO!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
