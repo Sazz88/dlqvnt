@@ -269,11 +269,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP (backup)5" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP5 (backup)
 https://webudi.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="SPORTS",True Premier Football 1
-http://iptvtree.net:8080/i4stream/d78b24fc9a18/162591
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
 #KODIPROP:inputstream=inputstream.adaptive
