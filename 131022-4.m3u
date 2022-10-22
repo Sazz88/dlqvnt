@@ -481,12 +481,12 @@ http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/372
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1808
 
 #EXTINF:-1 tvg-logo="https://www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="SPORTS XTRA",Usee Sports 1
-#http://180.211.90.134:8000/play/a05l
-http://iptvid.my.id/hmm/useetl1.m3u8
+http://180.211.90.134:8000/play/a05l
+#http://iptvid.my.id/hmm/useetl1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="SPORTS XTRA",Usee Sports 2
-#http://180.211.90.134:8000/play/a05n
-http://iptvid.my.id/hmm/useetl2.m3u8
+http://180.211.90.134:8000/play/a05n
+#http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="SPORTS XTRA",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
