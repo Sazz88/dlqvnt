@@ -362,21 +362,44 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8#|Referer=http:
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1366
+#EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SPORTS 2" ch-number="811" tvg-logo="https://i.ibb.co/1bYD50N/assp.png",ASTRO SUPERSPORTS 1 (b)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52859
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-logo="https://ia800804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png" group-title="SPORTS 2", Astro SuperSport 2 HD
+#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-logo="https://ia800804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png" group-title="SPORTS 2", Astro SuperSport 2
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-logo="https://ia800804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png" group-title="SPORTS 2", Astro SuperSport 2 (b)
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52860
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="SPORTS 2", Astro Supersport 3 HD
+#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="SPORTS 2", Astro Supersport 3
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115617
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a256.png" group-title="SPORTS 2", Astro Supersport 4 HD
+#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="SPORTS 2", Astro Supersport 3 (b)
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52861
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a256.png" group-title="SPORTS 2", Astro Supersport 4
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115618
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a256.png" group-title="SPORTS 2", Astro Supersport 4 (b)
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52862
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://ia600802.us.archive.org/26/items/FoxSports2Hd/fox%20sports%202%20hd.png" group-title="SPORTS 2",Fox Sports 2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52858
 
 ----------------SPORTS XTRA---------------------
 
