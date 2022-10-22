@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/rtmklik.rtm.gov.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,http://epg.clientportal.link/uk.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/rtmklik.rtm.gov.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,http://epg.clientportal.link/uk.xml.gz,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml"
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
@@ -380,6 +380,13 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115618
 
 ----------------SPORTS XTRA---------------------
 
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="SPORTS XTRA",beIN Sports English 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://warkop.cf/86/epl/01.m3u8
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://ia600804.us.archive.org/2/items/BtSport1Hd_201708/bt%20sport%201%20hd.png" group-title="SPORTS XTRA",BT Sport 1 UK
@@ -449,6 +456,42 @@ http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/372
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png" group-title="SPORTS XTRA",Premier Sports 1 UK
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1808
+
+#EXTINF:-1 tvg-logo="https://www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="SPORTS XTRA",Usee Sports 1
+#http://180.211.90.134:8000/play/a05l
+http://iptvid.my.id/hmm/useetl1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="SPORTS XTRA",Usee Sports 2
+#http://180.211.90.134:8000/play/a05n
+http://iptvid.my.id/hmm/useetl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="SPORTS XTRA",TVRI Sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vod-logo.net/photos/5bc9d44d3ef7efdf24686d247ab8b731.jpg" group-title="SPORTS XTRA",DUBAI SPORT 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vod-logo.net/photos/6fc0bc5c49c642cbcf5c21d0104f7622.jpg" group-title="SPORTS XTRA",DUBAI SPORT 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vod-logo.net/photos/394aac4ba00809aebac52fd8504af2e4.jpg" group-title="SPORTS XTRA",DUBAI SPORT 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SPORTS XTRA",ABU DHABI SPORT 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SPORTS XTRA",ABU DHABI SPORT 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 --------------------KIDS------------------------
 
