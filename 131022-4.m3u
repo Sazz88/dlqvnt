@@ -179,14 +179,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 -----------ISLAMIC--------------
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://iptvid.my.id/hmm/alquran.m3u8 
+https://stream-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#http://iptvid.my.id/hmm/alquran.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://iptvid.my.id/hmm/tawaftv.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://stream-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+#http://iptvid.my.id/hmm/tawaftv.m3u8
 
 --------------------SPORTS----------------------------------------------
 
@@ -215,50 +221,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/106.ts
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SPORTS" ch-number="811" tvg-logo="https://i.ibb.co/1bYD50N/assp.png",ASSP1 (backup)
-https://webudi.openhd.lol/ddy1/premium123/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2
-https://linears-playback.astro.com.my/vsg/41DivM9h2OBsHEZg5U_v5wuy-3v2QF5r_3vGAr9fUb5_U=scA0/dash-wv/jitp-linearwm/2104/default_ott.mpd
-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2 (backup)" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2 (backup)
 https://webudi.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-https://linears-playback.astro.com.my/vsg/419ssZqUC1bRQS0_NkVQYePwROyhhxaZOM83KxWWs_GDo=Y9Ay/dash-wv/jitp-linearwm/2701/default_ott.mpd
-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3 (backup)" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3 (backup)
 https://webudi.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-https://linears-playback.astro.com.my/vsg/41lBSFLNfIqC9xPDkptlqRnXT2TO7zufI8_VzilJKIMPw=7Xvs/dash-wv/jitp-linearwm/2506/default_ott.mpd
-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4 (backup)" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4 (backup)
 https://webudi.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP5" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP (backup)5" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP5 (backup)
-https://webudi.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
