@@ -1218,7 +1218,64 @@ http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-name="MIX" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/mix-fm.png" group-title="RADIO",MIX
 https://astro2.rastream.com/mix
-
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
 
+--------------------VODs---------------------
+
+#EXTINF:-1 tvg-logo="https://asianwiki.com/images/b/b2/20th_Century_Girl-p2.jpg" group-title="VOD",20th Century Girl (2022)
+https://i9951.usercdn.com/d/abyxlzd26gosj4l44r3vdtfezbisebsc4chfe4fxzctadj766hjuwvdsylahsmtn3t2iowb4/video.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhmNWMyYjQtNTVlMC00MGUwLWFmYjEtM2NkNWY0ODQ2YmFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD",The Stranger (2022)
+https://i9951.usercdn.com/d/abyqd2t26gosj4l44r3qpqf72t6nd3b5lz4d77os6wh453f4etamyrttgkux723xp62dk5g7/video.mp4
+
+#EXTINF:-1 tvg-logo="https://www.utusan.com.my/wp-content/uploads/poster-mat-kilau.jpg" group-title="VOD",Mat Kilau (2022)
+https://i9951.usercdn.com/d/abywiqdw6gosj4l42b3vxcv43tdwtdpguiw3wbn2gy5dv7wm6lcprvuq6dbd4fqlwikz4x25/video.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn.allhorror.com/uploads/2022/09/6323926db1bd86323926db1bdd.jpg" group-title="VOD",The Curse of Bridge Hollow (2022)
+https://i1524.usercdn.com/d/cjy6323z6gosj4l4653vfef6yitx7jfaqut6b3cp2bcs44lqmma4lnkugoke5idq2ryhlorf/video.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/220px-Top_Gun_Maverick_Poster.jpg" group-title="VOD",Top Gun: Maverick (2022)
+https://i9951.usercdn.com/d/abysegdy6gosj4l46z3uldf3qdeu7rutklhi2xuo7ekk4len4ae3abveetdmo4iip2ucxei6/video.mp4
+
+#EXTINF:-1 tvg-name="Blackout (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE0MWJkMzMtMGMzMC00NzAzLTljZTUtZTE2OTViNDRhMTgwXkEyXkFqcGdeQXVyNDg0NjMwNDY@._V1_FMjpg_UX1000_.jpg" group-title="🎬VOD▶ENGLISH🎬",Blackout (2022)
+https://i1524.usercdn.com/d/cjytspty6gosj4l46r3uns5b2rkkws44jbxlrnb337nrv4mfq2upnrhx6i7v7s4bhj4xuumg/video.mp4
+
+#EXTINF:-1 tvg-logo="https://static.metacritic.com/images/products/movies/3/7aad28b6e622af25c8a7736edf211b62-250h.jpg" group-title="VOD",The Redeem Team (2022)
+https://delivery-node-khalaf.voe-network.net/engine/mp4/01/08289/ikkik51zd4h2_n.mp4?t=ldPhbmMZWB7RqJkuUwmNUQgM3wGKH7krzfK3VOAjLmY&s=1666598744&e=14400&f=41446977&node=delivery-node-khalaf.voe-network.net&ip=60.53&sp=4500&asn=4788
+
+#EXTINF:-1 tvg-logo="https://images.cinefil.com/movies/1124742.jpg" group-title="VOD",Grimcutty (2022)
+https://i9951.usercdn.com/d/abyq4sty6gosj4l47f3vxg56y5v2bgf6uhp4l5rjub2enhskbuxtmqbt5nixeuwiozfv2ys6/video.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD",Bullet Train (2022)
+https://i1524.usercdn.com/d/cjytbh3y6gosj4l4753qdhvd3wi55p2knxbe2rogazmgyusdalcjsta2o7pyrbtzbrvamice/video.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/O/Orphan-First-Kill-2022-movie-poster.jpg" group-title="VOD",Orphan: First Kill (2022)
+https://i9209.usercdn.com/d/azyslh3y6gosj4l4753q5apb3rfkemn5k3m4g3hel73fb4m43olcxzyfbtcowzo5zgo22klm/video.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyFyhcXx4kNnLbzEY5z5fc3RehQ.jpg" group-title="VOD",Jeepers Creepers Reborn (2022)
+https://0125.cloudvideo.tv/hls/mfqjxxlfqdo6sr7qw63e5pkl4v4x7c4nxacwhzkdgqj4sgetymbumf7avr3q/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://popcornsg.s3.amazonaws.com/gallery/1656590750-emergenc.jpg" group-title="VOD",Emergency Declaration (2022)
+https://162.cloudvideo.tv/hls/mfqjqf63qpo6sr7qw6ze5jawxpy6jnga4qsbyrohiivuir4ljspizwwtnmpa/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://fr.web.img5.acsta.net/c_310_420/pictures/22/09/29/15/07/5566019.jpg" group-title="VOD",Catherine Called Birdy (2022)
+https://m10.vudeo.io/2vp3uf7u7yvjdohilm4rvk45sbyovffcl6abaolehapjpsi4c5cm2skdz7hq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/photo1431976.jpg" group-title="VOD",Boogie Nights (2022)
+https://i3130.usercdn.com/d/afyupzty6gosj4l4yj3vnd5z3gyftqtri4rzx76gwo5wzux4m7llazro7ginjz5rsoc6gt74/video.mp4
+
+#EXTINF:-1 tvg-logo="https://hexdownload.co/wp-content//uploads/2022/09/Fall-2022-Poster.jpg" group-title="VOD",Fall (2022)
+https://i1524.usercdn.com/d/cjy5c4dy6gosj4l47j3vrtny3fk7aixfnxckuuwteakwl2guud5cga6ni6skj5j3zlqtnsyt/video.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6v1N2SBhaF8lTBgsjfTAgVmS5q9.jpg" group-title="VOD",Special Delivery (2022)
+https://m5.vudeo.io/2vp3wrzm4evjdohilmwrv2obqhay2pyzwz7h4wiyka3tdemieubgg6v6ot3a/v.mp4
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/alienoid-2022/large_alienoid-movie-poster-2022.jpeg" group-title="VOD",Alienoid (2022)
+https://m5.vudeo.io/2vp3t4rv4evjdohilmurvz6dr523oapk4vhibyigwzkayk6zdk7e7hhafqqa/v.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Decision_to_Leave-793018454-large.jpg" group-title="VOD",Decision to Leave (2022)
+https://m0.vudeo.io/2vp3bosk4evjdohilmwrvjmbtsyolyjbavvfvur4ruzimtudrqrnf2ipgu7q/v.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jKXpGHC0A8LhCY4UNu8SIJ0AuYY.jpg" group-title="VOD",Seoul Vibe (2022)
+https://m5.vudeo.io/2vp3x2ff4avjdohilmrrvkgmqxjrg2ligdg2seqa5mzyns24jbnt562wamcq/v.mp4
