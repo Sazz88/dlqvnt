@@ -131,8 +131,8 @@ https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCLjkF9-USTtTMjpF
 https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna (C)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Astro Warna (C)
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37335
-#http://51.79.82.208:16010
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37335
+http://51.79.82.208:16010
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
