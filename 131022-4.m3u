@@ -27,7 +27,8 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://51.79.82.208:16003
+https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXRoOnW829oWOnDOA5cu2bj9YnK5UFsU9oYEQ6DgA5hHE1c7dulVwgGCHsP2pfIcO0Q)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
+#http://51.79.82.208:16003
 #http://iptvtree.net:8080/ace2524d/15a571c413/158360
 
 #KODIPROP:inputstream=inputstream.adaptive
