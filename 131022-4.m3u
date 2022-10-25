@@ -27,7 +27,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-04.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXYROtcSQHltksWV5XiYE0lp4Uv6egmPKFiaZUsbT8su2m-a38tZuCiezGXc0aWS8MA)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
+https://stream-01.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXRQURWfXbsXugBggcMRCUYdiMAa7Lfdcz2MzHeKvocA1pE9BPPfwENOYtNgVNq3HEA)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
 #http://51.79.82.208:16003
 #http://iptvtree.net:8080/ace2524d/15a571c413/158360
 
@@ -76,11 +76,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
 #EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png" group-title="MALAYSIA",Alhijrah
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Astro Bernama" tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="MALAYSIA",Astro Bernama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa3ffd5b0ad254ca7b23c85c240f4910&key=c17b80d133522c555b4c10ad6a142750
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
@@ -703,7 +698,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8cfb499a75630eca1d50e584f58e9310&key=0a11d637ad2eaa1f7a75f42b7fc72b30
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
-#EXTINF:-1 tvg-id="HBOSignatureAsia.us" group-title="MOVIES" tvg-logo="https://archive.org/download/HboSignature/hbo%20signature.png",HBO Signature
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" group-title="MOVIES" tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://stream-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
@@ -1092,6 +1087,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
 
 ---------------------NEWS----------------------------
+
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Astro Bernama" tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="NEWS",Astro Bernama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa3ffd5b0ad254ca7b23c85c240f4910&key=c17b80d133522c555b4c10ad6a142750
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 #EXTINF:-1 tvg-id="123" group-title="NEWS" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
