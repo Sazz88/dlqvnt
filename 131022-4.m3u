@@ -1220,17 +1220,45 @@ https://astro2.rastream.com/mix
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
 
-------------VOD--------------------
+-----------------------Kinabalu Aku Rindu---------------------
 
--------------------Tunggu Dulu Cinta----------------------
-
-#EXTINF:-1 group-title="VOD-Tunggu Dulu Cinta" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/tunggu-dulu-poster.jpg",Tunggu Dulu Cinta S01 E01
-https://d13snj70thqlha.cloudfront.net/d824919d-cb58-4de4-9622-0f126de3761b/manifest.m3u8
-#EXTINF:-1 group-title="VOD-Tunggu Dulu Cinta" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/tunggu-dulu-poster.jpg",Tunggu Dulu Cinta S01 E02
-https://d13snj70thqlha.cloudfront.net/eb5a4e66-5749-4aa8-b763-7a69e77a7475/manifest.m3u8
-#EXTINF:-1 group-title="VOD-Tunggu Dulu Cinta" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/tunggu-dulu-poster.jpg",Tunggu Dulu Cinta S01 E03
-https://d13snj70thqlha.cloudfront.net/c8a4f073-4a65-4ce7-aee5-eb97622d495c/manifest.m3u8
-#EXTINF:-1 group-title="VOD-Tunggu Dulu Cinta" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/tunggu-dulu-poster.jpg",Tunggu Dulu Cinta S01 E04
-https://d13snj70thqlha.cloudfront.net/2fcb1883-86cc-4791-8d7c-8167366ad088/manifest.m3u8
-#EXTINF:-1 group-title="VOD-Tunggu Dulu Cinta" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/tunggu-dulu-poster.jpg",Tunggu Dulu Cinta S01 E05
-https://d13snj70thqlha.cloudfront.net/69fc1918-b5c8-4694-8941-94a3c33b7282/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E01
+https://d13snj70thqlha.cloudfront.net/a40a779a-e3da-435d-b410-22d04ff75d07/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E02
+https://d13snj70thqlha.cloudfront.net/b744952c-89da-4cd5-b9e9-5a0b108ff262/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E03
+https://d13snj70thqlha.cloudfront.net/350bb008-550d-4f4a-8051-c5559aa81b11/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E04
+https://d13snj70thqlha.cloudfront.net/61cf7c3a-daf3-4226-90e0-2776fc8b858a/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E05
+https://d13snj70thqlha.cloudfront.net/9cf01ebe-3cc9-47d8-aeae-7cb1405bbf63/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E06
+https://d13snj70thqlha.cloudfront.net/1f763a92-6094-4525-b5e4-4c1b74c6bf50/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E07
+https://d13snj70thqlha.cloudfront.net/e89c99cc-af8a-4bd8-83bb-ef1bebe70033/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E08
+https://d13snj70thqlha.cloudfront.net/c52a2fd5-0c69-46f9-a259-9a90f40a81cc/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E09
+https://d13snj70thqlha.cloudfront.net/02bc92ca-0f43-4528-9af4-77c64beaa077/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E10
+https://d13snj70thqlha.cloudfront.net/36644f8b-25ac-410c-b764-e3693b9560ac/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E11
+https://d13snj70thqlha.cloudfront.net/8a6b5929-ab13-4356-b758-6be796546417/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E12
+https://d13snj70thqlha.cloudfront.net/cfefef19-3625-42e2-acbe-facdf9355c54/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E13
+https://d13snj70thqlha.cloudfront.net/9e7ee1ce-eadd-48ac-a2ba-99ce61ac2d8c/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E14
+https://d13snj70thqlha.cloudfront.net/27e78bdc-0c20-4142-8b3d-b37165907f06/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E15
+https://d13snj70thqlha.cloudfront.net/e303944b-3d25-46dd-8442-9139aa964c82/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E16
+https://d13snj70thqlha.cloudfront.net/2cf36a3d-322e-4e98-a66c-246883be0a76/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E17
+https://d13snj70thqlha.cloudfront.net/ae250fc2-949d-4b68-87ca-1d942b44685a/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E18
+https://d13snj70thqlha.cloudfront.net/f9863a5d-971c-4d76-93fe-00df3c333cb2/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E19
+https://d13snj70thqlha.cloudfront.net/d1430fa0-1416-4208-b435-36ed889b8b83/manifest.m3u8
+#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E20
+https://d13snj70thqlha.cloudfront.net/7aa3b13b-909a-46d5-aaad-6eb6f573a56c/manifest.m3u8
