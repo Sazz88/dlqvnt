@@ -525,6 +525,13 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manif
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" group-title="SPORTS XTRA",Sony Ten 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png" group-title="SPORTS XTRA",Premier Sports 1 UK
@@ -600,6 +607,32 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="SPORTS XTRA",MUTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic200.jpg" group-title="SPORTS XTRA",ESPN
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium44/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic424.jpg" group-title="SPORTS XTRA",ESPN 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium45/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic199.jpg" group-title="IPTV",Canal+ Sport
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium48/index.m3u8
 
 -------------------BEIN-SPORTS-GLOBAL------------------
 
@@ -734,14 +767,14 @@ http://tvn.x10.mx/1/master-6.m3u8?dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
-#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic646.jpg" group-title="KIDS",DISNEY EN
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic646.jpg" group-title="KIDS",DISNEY EN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium312/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
-#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic647.jpg" group-title="KIDS",DISNEY XD EN
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic647.jpg" group-title="KIDS",DISNEY XD EN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium314/index.m3u8
@@ -1197,7 +1230,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=17d5d79b705851bf7fb32a9021d56d10&key=839ae835984e66772b70621dd5d5318b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="NEWS" tvg-logo="https://i.imgur.com/PszVneu.png" ch-number="513",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=566e67da543c043f0fe2a5f371412910&key=0b997dec90bda7dd6f8f16d3fc914b6c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
