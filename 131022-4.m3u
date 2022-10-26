@@ -412,25 +412,41 @@ http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52858
 http://warkop.cf/86/epl/01.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
 
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949805_ico.png?ts=1661596956" group-title="SPORTS XTRA",BT Sport 1 UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.ibb.co/zbF5Nrk/1646542977757.png" group-title="SPORTS XTRA",BT Sport 1 UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/370
+https://webudi.openhd.lol/lb/premium31/index.m3u8
+#https://webui.vhls.ru.com/lb/premium31/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/370
 
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600488_ico.png?ts=1661597027" group-title="SPORTS XTRA",BT Sport 2 UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.ibb.co/fF9ZKmh/1646543026579.png" group-title="SPORTS XTRA",BT Sport 2 UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/368
+https://webudi.openhd.lol/lb/premium32/index.m3u8
+#https://webui.vhls.ru.com/lb/premium32/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/368
 
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394333_ico.png?ts=1663094572" group-title="SPORTS XTRA",BT Sport 3 UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://archive.org/download/BtSport3/bt%20sport%203.png" group-title="SPORTS XTRA",BT Sport 3 UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/366
+https://webudi.openhd.lol/lb/premium33/index.m3u8
+#https://webui.vhls.ru.com/lb/premium33/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/366
 
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394333_ico.png?ts=1663094572" group-title="SPORTS XTRA",BT Sport 4 UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://ia800802.us.archive.org/19/items/BtSportExtra4/bt%20sport%20extra%204.png" group-title="SPORTS XTRA",BT Sport 4 UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1743
+https://webudi.openhd.lol/lb/premium34/index.m3u8
+#https://webui.vhls.ru.com/lb/premium34/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1743
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -447,35 +463,51 @@ http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/50437
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1758
 
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://ia801801.us.archive.org/7/items/SkySportsArena_201708/sky%20sports%20arena.png" group-title="SPORTS XTRA",Sky Sports Arena UK
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394850_ico.png?ts=1663097838" group-title="SPORTS XTRA",Sky Sports Arena UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6200
+https://webudi.openhd.lol/lb/premium36/index.m3u8
+#https://webui.vhls.ru.com/lb/premium36/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6200
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://ia601807.us.archive.org/20/items/SkySportsF1New_201708/sky%20sports%20f1%20new.png" group-title="SPORTS XTRA",Sky Sports F1 UK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/337
 
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394345_ico.png?ts=1663095783" group-title="SPORTS XTRA",Sky Sports Football UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SPORTS XTRA",Sky Sports Football UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6203
+https://webudi.openhd.lol/lb/premium35/index.m3u8
+#https://webui.vhls.ru.com/lb/premium35/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6203
 
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394846_ico.png?ts=1663097807" group-title="SPORTS XTRA",Sky Sports Main Event UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-title="SPORTS XTRA",Sky Sports Main Event UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/376
+https://webudi.openhd.lol/lb/premium38/index.m3u8
+#https://webui.vhls.ru.com/lb/premium38/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/376
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://ia600805.us.archive.org/33/items/SkySportsMixNew_201708/sky%20sports%20mix%20new.png" group-title="SPORTS XTRA",Sky Sports Mix HD UK
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1821
 
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22405055_ico.png?ts=1663171788" group-title="SPORTS XTRA",Sky Sports Premier League UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="SPORTS XTRA",Sky Sports Premier League UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/372
+https://webudi.openhd.lol/lb/premium130/index.m3u8
+#https://webui.vhls.ru.com/lb/premium130/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/372
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -553,20 +585,32 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 -------------------BEIN-SPORTS-GLOBAL------------------
 
-#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-name="BeIn Sports English 1" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports English 1
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
+https://webudi.openhd.lol/lb/premium61/index.m3u8
+#https://webui.vhls.ru.com/lb/premium61/index.m3u8
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
 
-#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-name="BeIn Sports English 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports English 2
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/329
+https://webudi.openhd.lol/lb/premium90/index.m3u8
+#https://webui.vhls.ru.com/lb/premium90/index.m3u8
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/329
 
-#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-name="BeIn Sports English 3" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports English 3
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/328
+https://webudi.openhd.lol/lb/premium46/index.m3u8
+#https://webui.vhls.ru.com/lb/premium46/index.m3u8
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/328
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="BeIn Sports Premium 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-1-761.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 1 Premium
 #KODIPROP:inputstream=inputstream.adaptive
