@@ -228,7 +228,7 @@ https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OjHB2m4-kV-t2Ro
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2 (B)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webudi.openhd.lol/lb/premium124/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -238,7 +238,7 @@ https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgvj6Rbf612ONl7d
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3 (B)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webudi.openhd.lol/lb/premium125/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -248,7 +248,7 @@ https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ4f8ZHueDcqg2DZ
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4 (B)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webudi.openhd.lol/lb/premium126/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP5" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -670,6 +670,20 @@ http://tvn.x10.mx/1/master-4.m3u8?dl=1
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
 http://tvn.x10.mx/1/master-6.m3u8?dl=1
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic646.jpg" group-title="KIDS",DISNEY EN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium312/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic647.jpg" group-title="KIDS",DISNEY XD EN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium314/index.m3u8
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022021/ebs_kids.png" group-title="KIDS",EBS Kids
@@ -688,6 +702,13 @@ https://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-Kt0-_iq1mf_ojy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO EN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium321/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1169,6 +1190,13 @@ https://asrazunifi.ddns.net:8443/dash/live.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="Kerrang.uk" group-title="MUSIC" ch-number="719" tvg-logo="https://ewsat.com/img/KERRANG.png",KERRANG! TV UK
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1928
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic762.jpg" group-title="MUSIC",MTV Classic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium371/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="https://archive.org/download/music-club/music-club.jpg",MTV YO!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
