@@ -344,10 +344,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/18632
 
-#EXTINF:-1 group-title="SPORTS 2" tvg-id="vtvcab16hd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/vtc-3-hd-vietnam.png", On Football VN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8#|Referer=http://sctvonline.vn/
-
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SPORTS 2" ch-number="811" tvg-logo="https://i.ibb.co/1bYD50N/assp.png",ASTRO SUPERSPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
@@ -455,16 +451,6 @@ https://webudi.openhd.lol/lb/premium34/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium41/index.m3u8
 
-#EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="SPORTS XTRA",Free Sports UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/50437
-
-#EXTINF:-1 tvg-id="GinxeSportsTVUK.uk" tvg-logo="https://www.pngitem.com/pimgs/m/65-657592_ginx-esports-tv-logo-hd-png-download.png" group-title="SPORTS XTRA",GINX eSports TV UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1758
-
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394846_ico.png?ts=1663097807" group-title="SPORTS XTRA",Sky Sports Main Event UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
@@ -524,13 +510,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manif
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" group-title="SPORTS XTRA",Sony Ten 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -634,7 +613,9 @@ https://webudi.openhd.lol/lb/premium45/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium48/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS XTRA" tvg-id="EDGEsport.us" tvg-logo="https://www.pngkey.com/png/full/141-1415076_impact-wrestling-edge-sport-logo-png.png",EDGEsport
+#EXTINF:-1 group-title="SPORTS XTRA" tvg-id="EDGEsport.us" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png",EDGEsport
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 -------------------BEIN-SPORTS-GLOBAL------------------
@@ -728,12 +709,7 @@ http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/315
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="KIDS",Astro Ceria
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TADAA.my" tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="KIDS",Ta-daa!
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37445
-
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network (E)" tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network (E)
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network (E)" tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
@@ -753,39 +729,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3e4bcc300dc5f243ba5d5b4efca9fd10&key=364bdb669b85e49ef93d0de8b9f31cf3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="KIDS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",618 Moonbug Kids
+#EXTINF:-1 tvg-id="MoonbugKids" group-title="KIDS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f5f27fe9eb27df6fc1baf702421edb10&key=3942434ec0c37db16af8908d3b65ad61
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="HipHiphoree.id" tvg-logo="https://i.imgur.com/TMAQTQC.png" group-title="KIDS",Hip Hip Horee!
-http://tvn.x10.mx/1/master-4.m3u8?dl=1
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
-http://tvn.x10.mx/1/master-6.m3u8?dl=1
+http://tvn.x10.mx/1/master-4.m3u8?dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic646.jpg" group-title="KIDS",DISNEY EN
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic646.jpg" group-title="KIDS",Disney Channel US
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium312/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic647.jpg" group-title="KIDS",DISNEY XD EN
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic647.jpg" group-title="KIDS",Disney XD US
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium314/index.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022021/ebs_kids.png" group-title="KIDS",EBS Kids
-http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/78452
 
 ---------------MOVIES-----------------------
 
