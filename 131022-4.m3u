@@ -675,11 +675,13 @@ https://webudi.openhd.lol/lb/premium46/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/76
+#https://webudi.openhd.lol/lb/premium98/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="BeIn Sports Premium 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2 Premium
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/75
+#https://webudi.openhd.lol/lb/premium99/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="beIN SPORTS3 PREMIUM" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 3 Premium
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
