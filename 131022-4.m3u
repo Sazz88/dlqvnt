@@ -453,13 +453,6 @@ https://webudi.openhd.lol/lb/premium34/index.m3u8
 #https://webui.vhls.ru.com/lb/premium34/index.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1743
 
-#EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.pinimg.com/originals/27/f2/7d/27f27d3765d7d5e518156dd1d4a52709.png" group-title="SPORTS XTRA",Eurosport 2 UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium41/index.m3u8
-
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394846_ico.png?ts=1663097807" group-title="SPORTS XTRA",Sky Sports Main Event UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
@@ -497,14 +490,33 @@ https://webudi.openhd.lol/lb/premium36/index.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6200
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://ia601807.us.archive.org/20/items/SkySportsF1New_201708/sky%20sports%20f1%20new.png" group-title="SPORTS XTRA",Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/337
+https://webudi.openhd.lol/lb/premium60/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/337
 
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://ia600805.us.archive.org/33/items/SkySportsMixNew_201708/sky%20sports%20mix%20new.png" group-title="SPORTS XTRA",Sky Sports Mix HD UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://ia600805.us.archive.org/33/items/SkySportsMixNew_201708/sky%20sports%20mix%20new.png" group-title="SPORTS XTRA",Sky Sports Mix HD UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1821
+https://webudi.openhd.lol/lb/premium449/index.m3u8
+#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1821
+
+#EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.imgur.com/6JGIqlG.png" group-title="SPORTS XTRA",Eurosport 1 UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium41/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.imgur.com/fdKbjey.png" group-title="SPORTS XTRA",Eurosport 2 UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium42/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392732_ico.png?ts=1654805856" group-title="SPORTS XTRA",Sony Ten 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
