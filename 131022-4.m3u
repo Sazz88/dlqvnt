@@ -453,6 +453,13 @@ https://webudi.openhd.lol/lb/premium34/index.m3u8
 #https://webui.vhls.ru.com/lb/premium34/index.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1743
 
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://time4tv.stream/images/sky-sports-news.jpg" group-title="SPORTS XTRA",Sky Sport News UK
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium366/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394846_ico.png?ts=1663097807" group-title="SPORTS XTRA",Sky Sports Main Event UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
