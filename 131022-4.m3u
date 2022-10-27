@@ -182,7 +182,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://210.210.155.37/qwr9ew/s/s28/index.m3u8|User-Agent=Lavf/56.15.102
 #https://stream-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-#http://iptvid.my.id/hmm/alquran.m3u8
+#https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/IQRA-TV-vipotv.png",IQRA TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515939_ico.png?ts=1657341923" group-title="ISLAMIC",SAUDI SUNNAH TV
 http://210.210.155.37/qwr9ew/s/s27/index.m3u8|User-Agent=Lavf/56.15.102
@@ -197,8 +202,6 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://stream-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #http://iptvid.my.id/hmm/tawaftv.m3u8
-
-
 
 
 --------------------SPORTS----------------------------------------------
@@ -781,6 +784,18 @@ https://webudi.openhd.lol/lb/premium312/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium314/index.m3u8
 
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-kids-vipotv.png" group-title="KIDS",EBS Kids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ConTV.us" tvg-logo="https://vipotv.com/wp-content/uploads/2020/11/contv-vipotv.png" group-title="KIDS",CON TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/512x288_840400/index.m3u8
+
+
+
 ---------------MOVIES-----------------------
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -876,7 +891,7 @@ https://bit.ly/3DVAp5P
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.teleon.tv/logo/24-hour-free-movies-us.png", 24 Hour Free Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://vipotv.com/wp-content/uploads/2021/10/24-Hour-Free-Movies-live-vipotv-america-english.png", 24 Hour Free Movies
 https://bit.ly/3dHN7dQ
 
 #EXTINF:-1 tvg-id="Galaxy.id" group-title="MOVIES" tvg-logo="https://i.ibb.co/y8mYp3m/KM.png",Galaxy
@@ -962,12 +977,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.ibb.co/VmHKBHZ/ARIRANG.png" group-title="KOREA",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English(중학3)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022021/ebs_english_logo.png" group-title="KOREA",EBS ENGLISH
-http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/78447
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/78447
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -983,6 +1000,21 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://media.glassdoor.com/sqll/2055680/cj-e-and-m-squarelogo-1649932476031.png", CJ ENM
 https://tinyurl.com/TiviMe-CJENM
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2022/01/tbs-livei-vpotv-korean.png",TBS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2022/01/OBS-live-vipotv-korea.png",OBS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://59.23.231.102:1935/live/obsstream1/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2021/12/SBS-JIBS-live-vipotv-korean.png",JIBS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://123.140.197.22/stream/1/play.m3u8
 
 ------------------JAPAN---------------------------
 
@@ -1020,6 +1052,16 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/Tokyo-MX-1-live-vipotv-japan-Tokyo-Metropolitan-Television.png" group-title="JAPAN",Tokyo MX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://movie.mcas.jp/mcas/mx_live_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.jp" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/FashionTV-vipotv-min.png" group-title="JAPAN",Fshion TV JP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://fashs043.cloudycdn.services/scte/pg13/playlist.m3u8?live_suff
 
 -----------------------THAI SPORTS----------------------
 
@@ -1196,6 +1238,41 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515958_ico.png?ts=1660524537" group-title="ENTERTAINMENT",Rock Extreme
 http://210.210.155.37/dr9445/h/h15/index.m3u8|User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://www.pngkey.com/png/detail/58-580348_comedy-central-logo-comedy-central-logo-quiz.png" group-title="ENTERTAINMENT",Comedy Central
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium310/index.m3u8
+
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://www.pngkey.com/png/full/867-8671958_logo-cbs-cbs-logo-2019.png" group-title="ENTERTAINMENT",CBS
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium52/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="ENTERTAINMENT",Investigation Discovery
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium324/index.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="ENTERTAINMENT",Showtime
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium333/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/145-1458305_spike-tv-logo-vector-hd-png-download.png" group-title="ENTERTAINMENT",Spike
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium321/index.m3u8
+
 -------------------DOCUMENTARY-------------------------------
 
 #EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/d5hDH0n/gki.png" group-title="DOCUMENTARY",History
@@ -1268,6 +1345,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea24fcf5a4e5a1a25a8d118c088dc510&key=effd0dfaddcd0e533314d5305abe031c
 #EXTINF:-1 tvg-id="DMAXAsia.sg" tvg-name="DMAX" tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="LIFESTYLE",DMAX
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://vipotv.com/wp-content/uploads/2021/11/Safeer-tv-live-vipotv-england.png",Safeer TV
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 
 ---------------------NEWS----------------------------
 
