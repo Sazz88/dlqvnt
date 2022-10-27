@@ -1605,14 +1605,14 @@ https://webudi.openhd.lol/lb/premium47/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium50/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png" group-title="SPORTS XTRA",Canal+ Sport
+#EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png" group-title="MORE SPORTS",Canal+ Sport
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium48/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="SPORTS XTRA",Canal+ Sport 2
+#EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="MORE SPORTS",Canal+ Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
