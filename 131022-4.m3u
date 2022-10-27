@@ -637,13 +637,6 @@ https://webudi.openhd.lol/lb/premium44/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium45/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic199.jpg" group-title="SPORTS XTRA",Canal+ Sport
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium48/index.m3u8
-
 #EXTINF:-1 group-title="SPORTS XTRA" tvg-id="EDGEsport.us" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png",EDGEsport
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1576,4 +1569,59 @@ https://webudi.openhd.lol/lb/premium114/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium115/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://ia601005.us.archive.org/21/items/ElevenSports1/eleven%20sports%201.png" group-title="MORE SPORTS",Eleven Sports 1 (POLAND)
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium71/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports2Poland.pl" tvg-logo="https://ia803108.us.archive.org/8/items/ElevenSports2/eleven%20sports%202.png" group-title="MORE SPORTS",Eleven Sports 2 (POLAND)
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium72/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports3Poland.pl" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png" group-title="MORE SPORTS",Eleven Sports 3 (POLAND)
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium428/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png" group-title="MORE SPORTS",Polsat Sport (POLAND)
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium47/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="MORE SPORTS",Polsat Sport Extra (POLAND)
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium50/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png" group-title="SPORTS XTRA",Canal+ Sport
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium48/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="SPORTS XTRA",Canal+ Sport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium73/index.m3u8
+
+
+
+
+
+
 
