@@ -656,18 +656,18 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium61/index.m3u8
+#https://webudi.openhd.lol/lb/premium61/index.m3u8
 #https://webui.vhls.ru.com/lb/premium61/index.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
+http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium90/index.m3u8
+#https://webudi.openhd.lol/lb/premium90/index.m3u8
 #https://webui.vhls.ru.com/lb/premium90/index.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/329
+http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/329
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -1058,11 +1058,6 @@ https://sub2.neetball.net/live/neet.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://movie.mcas.jp/mcas/mx_live_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTV.jp" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/FashionTV-vipotv-min.png" group-title="JAPAN",Fshion TV JP
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fashs043.cloudycdn.services/scte/pg13/playlist.m3u8?live_suff
-
 -----------------------THAI SPORTS----------------------
 
 #EXTINF:-1 tvg-id="TrueSportHD.th" tvg-logo="https://i.imgur.com/lop2PUy.png" group-title="THAI SPORTS",True Sports 1
@@ -1238,14 +1233,14 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515958_ico.png?ts=1660524537" group-title="ENTERTAINMENT",Rock Extreme
 http://210.210.155.37/dr9445/h/h15/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://www.pngkey.com/png/detail/58-580348_comedy-central-logo-comedy-central-logo-quiz.png" group-title="ENTERTAINMENT",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://time4tv.stream/images/comedycentral.png" group-title="ENTERTAINMENT",Comedy Central
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium310/index.m3u8
 
-#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://www.pngkey.com/png/full/867-8671958_logo-cbs-cbs-logo-2019.png" group-title="ENTERTAINMENT",CBS
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://time4tv.stream/images/cbs.png" group-title="ENTERTAINMENT",CBS
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1266,7 +1261,7 @@ https://webudi.openhd.lol/lb/premium324/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium333/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/145-1458305_spike-tv-logo-vector-hd-png-download.png" group-title="ENTERTAINMENT",Spike
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Spike_TV-logo-2943DB10E5-seeklogo.com.png" group-title="ENTERTAINMENT",Spike
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
