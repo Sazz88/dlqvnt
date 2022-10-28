@@ -267,6 +267,11 @@ https://webudi.openhd.lol/lb/premium126/index.m3u8|ExoPlayerLib/2.13.2=&referer=
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP5" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP5 (B)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium43/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
 #KODIPROP:inputstream=inputstream.adaptive
@@ -421,107 +426,79 @@ http://warkop.cf/86/epl/01.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949805_ico.png?ts=1661596956" group-title="SPORTS XTRA",BT Sport 1 UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-referrer=https://castfree.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://go3.gocast2.com:999/hls/bbtsp1.m3u8?md5=-LQ7Y2VCXqKEuUVdgX9ong&expires=1666961806
-#https://webudi.openhd.lol/lb/premium31/index.m3u8
+https://webudi.openhd.lol/lb/premium31/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/370
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600488_ico.png?ts=1661597027" group-title="SPORTS XTRA",BT Sport 2 UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://go4.gocast2.com:999/hls/bbtsp2.m3u8?md5=O6l-taHDa-1P9cS_Kmw6nA&expires=1666961877
-#https://webudi.openhd.lol/lb/premium32/index.m3u8
+https://webudi.openhd.lol/lb/premium32/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/368
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394333_ico.png?ts=1663094572" group-title="SPORTS XTRA",BT Sport 3 UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://go3.gocast2.com:999/hls/bbtsp3.m3u8?md5=u4EgxWrkfhqNbbgbXb7ADQ&expires=1666961941
-#https://webudi.openhd.lol/lb/premium33/index.m3u8
+https://webudi.openhd.lol/lb/premium33/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/366
 
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394333_ico.png?ts=1663094572" group-title="SPORTS XTRA",BT Sport 4 UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://go10.gocast2.com:999/hls/bbtespn.m3u8?md5=SJe3h_ez_-Z_DgQhqixKag&expires=1666961931
-#https://webudi.openhd.lol/lb/premium34/index.m3u8
+https://webudi.openhd.lol/lb/premium34/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1743
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://time4tv.stream/images/sky-sports-news.jpg" group-title="SPORTS XTRA",Sky Sport News UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://go6.gocast2.com:999/hls/skyspnews.m3u8?md5=A8IYKCOTnrAK7VNSNu4rVA&expires=1666962031
-#https://webudi.openhd.lol/lb/premium366/index.m3u8
+https://webudi.openhd.lol/lb/premium366/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394846_ico.png?ts=1663097807" group-title="SPORTS XTRA",Sky Sports Main Event UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-referrer=https://castfree.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://go5.gocast2.com:999/hls/skysme.m3u8?md5=meT9ieH-HJ9r3q5MfrFt0w&expires=1666962072
-#https://webudi.openhd.lol/lb/premium38/index.m3u8
+https://webudi.openhd.lol/lb/premium38/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/376
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394345_ico.png?ts=1663095783" group-title="SPORTS XTRA",Sky Sports Football UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium35/index.m3u8
-#https://webui.vhls.ru.com/lb/premium35/index.m3u8
+https://webudi.openhd.lol/lb/premium35/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6203
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22405055_ico.png?ts=1663171788" group-title="SPORTS XTRA",Sky Sports Premier League UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium130/index.m3u8
-#https://webui.vhls.ru.com/lb/premium130/index.m3u8
+https://webudi.openhd.lol/lb/premium130/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/372
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394850_ico.png?ts=1663097838" group-title="SPORTS XTRA",Sky Sports Arena UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium36/index.m3u8
-#https://webui.vhls.ru.com/lb/premium36/index.m3u8
+https://webudi.openhd.lol/lb/premium36/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6200
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://ia601807.us.archive.org/20/items/SkySportsF1New_201708/sky%20sports%20f1%20new.png" group-title="SPORTS XTRA",Sky Sports F1 UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium60/index.m3u8
+https://webudi.openhd.lol/lb/premium60/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/337
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://ia600805.us.archive.org/33/items/SkySportsMixNew_201708/sky%20sports%20mix%20new.png" group-title="SPORTS XTRA",Sky Sports Mix HD UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium449/index.m3u8
+https://webudi.openhd.lol/lb/premium449/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1821
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.imgur.com/6JGIqlG.png" group-title="SPORTS XTRA",Eurosport 1 UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium41/index.m3u8
+https://webudi.openhd.lol/lb/premium41/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.imgur.com/fdKbjey.png" group-title="SPORTS XTRA",Eurosport 2 UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium42/index.m3u8
+https://webudi.openhd.lol/lb/premium42/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392732_ico.png?ts=1654805856" group-title="SPORTS XTRA",Sony Ten 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -536,11 +513,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manif
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png" group-title="SPORTS XTRA",Premier Sports 1 UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1808
 
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_spotv.png" group-title="SPORTS XTRA" tvg-id="095" tvg-name="095-SPOTV", SPOTV (INDO)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -619,18 +591,14 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic200.jpg" group-title="SPORTS XTRA",ESPN
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium44/index.m3u8
+https://webudi.openhd.lol/lb/premium44/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic424.jpg" group-title="SPORTS XTRA",ESPN 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium45/index.m3u8
+https://webudi.openhd.lol/lb/premium45/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 group-title="SPORTS XTRA" tvg-id="EDGEsport.us" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png",EDGEsport
 #KODIPROP:inputstream=inputstream.adaptive
@@ -643,7 +611,7 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://castfree.me/
-#https://webudi.openhd.lol/lb/premium61/index.m3u8
+#https://webudi.openhd.lol/lb/premium61/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
 https://go1.gocast2.com:999/hls/bein1en.m3u8?md5=jlbmWTMKUtstCz4Z20ZzrQ&expires=1666961292
 
@@ -1109,7 +1077,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="TRUE SPORTSS",True Premier Football 3
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="TRUE SPORTS",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
