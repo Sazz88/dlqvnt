@@ -647,89 +647,112 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://castfree.me/
 #https://webudi.openhd.lol/lb/premium61/index.m3u8
-#https://webui.vhls.ru.com/lb/premium61/index.m3u8
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
+https://go6.gocast2.com:999/hls/bein1en.m3u8?md5=l_2iVdJX_KSUnjG4yKF6Ng&expires=1666931341
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://castfree.me/
 #https://webudi.openhd.lol/lb/premium90/index.m3u8
-#https://webui.vhls.ru.com/lb/premium90/index.m3u8
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/329
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/329
+https://go1.gocast2.com:999/hls/bein2en.m3u8?md5=RSFQSvJsm2ezjoFGpLVarg&expires=1666931318
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium46/index.m3u8
-#https://webui.vhls.ru.com/lb/premium46/index.m3u8
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#https://webudi.openhd.lol/lb/premium46/index.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/328
+https://go2.gocast2.com:999/hls/bein3en.m3u8?md5=NL-nIYv5xUDe02RKjHGclw&expires=1666931278
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="BeIn Sports Premium 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-1-761.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 1 Premium
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/76
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/76
 #https://webudi.openhd.lol/lb/premium98/index.m3u8
+https://go4.gocast2.com:999/hls/bein1prem.m3u8?md5=TjzjnSm7gumtpfZg-Dskjg&expires=1666931207
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="BeIn Sports Premium 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2 Premium
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://castfree.me/
 http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/75
 #https://webudi.openhd.lol/lb/premium99/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="beIN SPORTS3 PREMIUM" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 3 Premium
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium100/index.m3u8
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#EXTVLCOPT:http-user-agent=android-R+
+#https://webudi.openhd.lol/lb/premium100/index.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/74
+https://go4.gocast2.com:999/hls/bein3prem.m3u8?md5=HUdeMfh8EvoIxAwN22TuyA&expires=1666931106
 
 #EXTINF:-1 tvg-id="beINSports.qa" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="BEIN SPORTS GLOBAL",beIN Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/572
 
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://png.pngitem.com/pimgs/s/770-7706168_bein-sport-1-png-transparent-png.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 1
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://png.pngitem.com/pimgs/s/770-7706168_bein-sport-1-png-transparent-png.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 1 AR
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/322
+https://go4.gocast2.com:999/hls/bein1arab.m3u8?md5=Iq_bN-G1Juqpry11cmtglA&expires=1666929351
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/322
 
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6591.1491350441.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6591.1491350441.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2 AR
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/320
 
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 3
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 3 AR
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/319
+https://go5.gocast2.com:999/hls/bein3arab.m3u8?md5=A8SRolpoFYlRFcJTfdUang&expires=1666930861
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/319
 
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 4
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 4 AR
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/318
+https://go2.gocast2.com:999/hls/bein4arab.m3u8?md5=QCMNosg1Fg8mJhiYsNEZkQ&expires=1666930941
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/318
 
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 5
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 5 AR
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/317
+https://go3.gocast2.com:999/hls/bein5arab.m3u8?md5=iq9beFPB97hs1zQt68oC2g&expires=1666930989
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/317
 
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 6
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 6 AR
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/316
+https://go1.gocast2.com:999/hls/bein6arab.m3u8?md5=AXF9WaF5fOG_P8dyUJPZEQ&expires=1666931028
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/316
 
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 7
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 7 AR
+#EXTVLCOPT:http-referrer=https://castfree.me/
+#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/315
+https://go2.gocast2.com:999/hls/bein7arab.m3u8?md5=nPox4dDuscYCO7PKiyRUtg&expires=1666931056
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/315
 
 --------------------KIDS------------------------
 
