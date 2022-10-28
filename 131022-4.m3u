@@ -422,54 +422,49 @@ http://warkop.cf/86/epl/01.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949805_ico.png?ts=1661596956" group-title="SPORTS XTRA",BT Sport 1 UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium31/index.m3u8
-#https://webui.vhls.ru.com/lb/premium31/index.m3u8
+https://go3.gocast2.com:999/hls/bbtsp1.m3u8?md5=-LQ7Y2VCXqKEuUVdgX9ong&expires=1666961806
+#https://webudi.openhd.lol/lb/premium31/index.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/370
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600488_ico.png?ts=1661597027" group-title="SPORTS XTRA",BT Sport 2 UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium32/index.m3u8
-#https://webui.vhls.ru.com/lb/premium32/index.m3u8
+https://go4.gocast2.com:999/hls/bbtsp2.m3u8?md5=O6l-taHDa-1P9cS_Kmw6nA&expires=1666961877
+#https://webudi.openhd.lol/lb/premium32/index.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/368
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394333_ico.png?ts=1663094572" group-title="SPORTS XTRA",BT Sport 3 UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium33/index.m3u8
-#https://webui.vhls.ru.com/lb/premium33/index.m3u8
+https://go3.gocast2.com:999/hls/bbtsp3.m3u8?md5=u4EgxWrkfhqNbbgbXb7ADQ&expires=1666961941
+#https://webudi.openhd.lol/lb/premium33/index.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/366
 
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394333_ico.png?ts=1663094572" group-title="SPORTS XTRA",BT Sport 4 UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium34/index.m3u8
-#https://webui.vhls.ru.com/lb/premium34/index.m3u8
+https://go10.gocast2.com:999/hls/bbtespn.m3u8?md5=SJe3h_ez_-Z_DgQhqixKag&expires=1666961931
+#https://webudi.openhd.lol/lb/premium34/index.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1743
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://time4tv.stream/images/sky-sports-news.jpg" group-title="SPORTS XTRA",Sky Sport News UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium366/index.m3u8
+https://go6.gocast2.com:999/hls/skyspnews.m3u8?md5=A8IYKCOTnrAK7VNSNu4rVA&expires=1666962031
+#https://webudi.openhd.lol/lb/premium366/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394846_ico.png?ts=1663097807" group-title="SPORTS XTRA",Sky Sports Main Event UK
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium38/index.m3u8
-#https://webui.vhls.ru.com/lb/premium38/index.m3u8
+https://go5.gocast2.com:999/hls/skysme.m3u8?md5=meT9ieH-HJ9r3q5MfrFt0w&expires=1666962072
+#https://webudi.openhd.lol/lb/premium38/index.m3u8
 #http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/376
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394345_ico.png?ts=1663095783" group-title="SPORTS XTRA",Sky Sports Football UK
@@ -650,7 +645,7 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #https://webudi.openhd.lol/lb/premium61/index.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
-https://go6.gocast2.com:999/hls/bein1en.m3u8?md5=l_2iVdJX_KSUnjG4yKF6Ng&expires=1666931341
+https://go1.gocast2.com:999/hls/bein1en.m3u8?md5=jlbmWTMKUtstCz4Z20ZzrQ&expires=1666961292
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -658,15 +653,14 @@ https://go6.gocast2.com:999/hls/bein1en.m3u8?md5=l_2iVdJX_KSUnjG4yKF6Ng&expires=
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #https://webudi.openhd.lol/lb/premium90/index.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/329
-https://go1.gocast2.com:999/hls/bein2en.m3u8?md5=RSFQSvJsm2ezjoFGpLVarg&expires=1666931318
+https://go5.gocast2.com:999/hls/bein2en.m3u8?md5=nTa3AgzmvGAR59HK1LbhtA&expires=1666961351
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="BEIN SPORTS GLOBAL",beIN SPORTS ENGLISH 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #https://webudi.openhd.lol/lb/premium46/index.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/328
-https://go2.gocast2.com:999/hls/bein3en.m3u8?md5=NL-nIYv5xUDe02RKjHGclw&expires=1666931278
+https://go3.gocast2.com:999/hls/bein3en.m3u8?md5=PfIUAkoUVIZUeHOt6IK91g&expires=1666961380
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="BeIn Sports Premium 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-1-761.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 1 Premium
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -675,7 +669,7 @@ https://go2.gocast2.com:999/hls/bein3en.m3u8?md5=NL-nIYv5xUDe02RKjHGclw&expires=
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/76
 #https://webudi.openhd.lol/lb/premium98/index.m3u8
-https://go4.gocast2.com:999/hls/bein1prem.m3u8?md5=TjzjnSm7gumtpfZg-Dskjg&expires=1666931207
+https://go2.gocast2.com:999/hls/bein1prem.m3u8?md5=1H4PSjp0Ni17o2007ZFFdA&expires=1666961415
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="BeIn Sports Premium 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2 Premium
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -692,7 +686,7 @@ http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/75
 #EXTVLCOPT:http-user-agent=android-R+
 #https://webudi.openhd.lol/lb/premium100/index.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/74
-https://go4.gocast2.com:999/hls/bein3prem.m3u8?md5=HUdeMfh8EvoIxAwN22TuyA&expires=1666931106
+https://go6.gocast2.com:999/hls/bein3prem.m3u8?md5=lrI9hUrMSzjLJDzblPwhXw&expires=1666961461
 
 #EXTINF:-1 tvg-id="beINSports.qa" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="BEIN SPORTS GLOBAL",beIN Sports
 #KODIPROP:inputstream=inputstream.adaptive
@@ -704,22 +698,24 @@ http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/572
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://go4.gocast2.com:999/hls/bein1arab.m3u8?md5=Iq_bN-G1Juqpry11cmtglA&expires=1666929351
+https://go6.gocast2.com:999/hls/bein1arab.m3u8?md5=GF0dcfBNFlZsq-otMxZ0pA&expires=1666961499
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/322
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6591.1491350441.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2 AR
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/320
+https://webudi.openhd.lol/lb/premium92/index.m3u8
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/320
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 3 AR
 #EXTVLCOPT:http-referrer=https://castfree.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://go5.gocast2.com:999/hls/bein3arab.m3u8?md5=A8SRolpoFYlRFcJTfdUang&expires=1666930861
+https://go2.gocast2.com:999/hls/bein3arab.m3u8?md5=RMRP0_eaqzkE4cSIGRYOHw&expires=1666961617
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/319
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 4 AR
@@ -727,7 +723,7 @@ https://go5.gocast2.com:999/hls/bein3arab.m3u8?md5=A8SRolpoFYlRFcJTfdUang&expire
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://go2.gocast2.com:999/hls/bein4arab.m3u8?md5=QCMNosg1Fg8mJhiYsNEZkQ&expires=1666930941
+https://go1.gocast2.com:999/hls/bein4arab.m3u8?md5=yagw5uQ-RrKcFS_GISidPg&expires=1666961657
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/318
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 5 AR
@@ -735,7 +731,7 @@ https://go2.gocast2.com:999/hls/bein4arab.m3u8?md5=QCMNosg1Fg8mJhiYsNEZkQ&expire
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://go3.gocast2.com:999/hls/bein5arab.m3u8?md5=iq9beFPB97hs1zQt68oC2g&expires=1666930989
+https://go3.gocast2.com:999/hls/bein5arab.m3u8?md5=QyYB6raXpb0vrHYdXbAAZg&expires=1666961677
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/317
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 6 AR
@@ -743,7 +739,7 @@ https://go3.gocast2.com:999/hls/bein5arab.m3u8?md5=iq9beFPB97hs1zQt68oC2g&expire
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://go1.gocast2.com:999/hls/bein6arab.m3u8?md5=AXF9WaF5fOG_P8dyUJPZEQ&expires=1666931028
+https://go6.gocast2.com:999/hls/bein6arab.m3u8?md5=xzGqZRIdJA2dEpfitIQf8A&expires=1666961692
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/316
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 7 AR
@@ -751,7 +747,7 @@ https://go1.gocast2.com:999/hls/bein6arab.m3u8?md5=AXF9WaF5fOG_P8dyUJPZEQ&expire
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://go2.gocast2.com:999/hls/bein7arab.m3u8?md5=nPox4dDuscYCO7PKiyRUtg&expires=1666931056
+https://go6.gocast2.com:999/hls/bein7arab.m3u8?md5=_tEM5OyNB_cnjjk_kQnhYg&expires=1666961715
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/315
 
 --------------------KIDS------------------------
@@ -1079,53 +1075,53 @@ https://sub2.neetball.net/live/neet.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://movie.mcas.jp/mcas/mx_live_2/chunklist.m3u8
 
------------------------THAI SPORTS----------------------
+-----------------------TRUE SPORTS----------------------
 
-#EXTINF:-1 tvg-id="TrueSportHD.th" tvg-logo="https://i.imgur.com/lop2PUy.png" group-title="THAI SPORTS",True Sports 1
+#EXTINF:-1 tvg-id="TrueSportHD.th" tvg-logo="https://i.imgur.com/lop2PUy.png" group-title="TRUE SPORTS",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="THAI SPORTS",True Sports 2
+#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="TRUE SPORTS",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSportHD.th3" tvg-logo="https://i.imgur.com/760fLOg.png" group-title="THAI SPORTS",True Sports 3
+#EXTINF:-1 tvg-id="TrueSportHD.th3" tvg-logo="https://i.imgur.com/760fLOg.png" group-title="TRUE SPORTS",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-logo="https://i.imgur.com/6MUEjll.png" group-title="THAI SPORTS",True Sports 4
+#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-logo="https://i.imgur.com/6MUEjll.png" group-title="TRUE SPORTS",True Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSport5.th" tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="THAI SPORTS",True Sports 5
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="TRUE SPORTS",True Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-logo="https://i.imgur.com/6SfqnBv.png" group-title="THAI SPORTS",True Sports 7
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-logo="https://i.imgur.com/6SfqnBv.png" group-title="TRUE SPORTS",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="THAI SPORTS",True Premier Football 1
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="TRUE SPORTS",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.imgur.com/yS94g00.png" group-title="THAI SPORTS",True Premier Football 2
+#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.imgur.com/yS94g00.png" group-title="TRUE SPORTS",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="THAI SPORTS",True Premier Football 3
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="TRUE SPORTSS",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="THAI SPORTS",True Premier Football 4
+#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="TRUE SPORTS",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="THAI SPORTS",True Premier Football 5
+#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="TRUE SPORTS",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TrueTennisHD.th" tvg-logo="https://i.imgur.com/yDxztEe.png" group-title="THAI SPORTS",True Tennis
+#EXTINF:-1 tvg-id="TrueTennisHD.th" tvg-logo="https://i.imgur.com/yDxztEe.png" group-title="TRUE SPORTS",True Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
