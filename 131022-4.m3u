@@ -182,7 +182,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #http://210.210.155.37/qwr9ew/s/s28/index.m3u8|User-Agent=Lavf/56.15.102
 https://stream-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-#https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://vipotv.com/wp-content/uploads/2019/06/eman-channel-vipotv.png",eman channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/IQRA-TV-vipotv.png",IQRA TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -715,19 +719,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
 http://tvn.x10.mx/1/master-4.m3u8?dl=1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic646.jpg" group-title="KIDS",Disney Channel US
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium312/index.m3u8
+https://webudi.openhd.lol/lb/premium312/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic647.jpg" group-title="KIDS",Disney XD US
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium314/index.m3u8
+https://webudi.openhd.lol/lb/premium314/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-kids-vipotv.png" group-title="KIDS",EBS Kids
 #KODIPROP:inputstream=inputstream.adaptive
@@ -755,12 +755,10 @@ https://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-M04IqW7x1VuyH_
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO EN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium321/index.m3u8
+https://webudi.openhd.lol/lb/premium321/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1181,32 +1179,24 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8|User-Agent=Lavf/56.15.102
 https://webudi.openhd.lol/lb/premium310/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://time4tv.stream/images/cbs.png" group-title="ENTERTAINMENT",CBS
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium52/index.m3u8
+https://webudi.openhd.lol/lb/premium52/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="ENTERTAINMENT",Investigation Discovery
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium324/index.m3u8
+https://webudi.openhd.lol/lb/premium324/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="ENTERTAINMENT",Showtime
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium333/index.m3u8
+https://webudi.openhd.lol/lb/premium333/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Spike_TV-logo-2943DB10E5-seeklogo.com.png" group-title="ENTERTAINMENT",Spike
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium321/index.m3u8
+https://webudi.openhd.lol/lb/premium321/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 -------------------DOCUMENTARY-------------------------------
 
@@ -1427,48 +1417,6 @@ https://astro2.rastream.com/mix
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
 
------------------------Kinabalu Aku Rindu---------------------
-
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E01
-https://d13snj70thqlha.cloudfront.net/a40a779a-e3da-435d-b410-22d04ff75d07/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E02
-https://d13snj70thqlha.cloudfront.net/b744952c-89da-4cd5-b9e9-5a0b108ff262/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E03
-https://d13snj70thqlha.cloudfront.net/350bb008-550d-4f4a-8051-c5559aa81b11/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E04
-https://d13snj70thqlha.cloudfront.net/61cf7c3a-daf3-4226-90e0-2776fc8b858a/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E05
-https://d13snj70thqlha.cloudfront.net/9cf01ebe-3cc9-47d8-aeae-7cb1405bbf63/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E06
-https://d13snj70thqlha.cloudfront.net/1f763a92-6094-4525-b5e4-4c1b74c6bf50/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E07
-https://d13snj70thqlha.cloudfront.net/e89c99cc-af8a-4bd8-83bb-ef1bebe70033/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E08
-https://d13snj70thqlha.cloudfront.net/c52a2fd5-0c69-46f9-a259-9a90f40a81cc/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E09
-https://d13snj70thqlha.cloudfront.net/02bc92ca-0f43-4528-9af4-77c64beaa077/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E10
-https://d13snj70thqlha.cloudfront.net/36644f8b-25ac-410c-b764-e3693b9560ac/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E11
-https://d13snj70thqlha.cloudfront.net/8a6b5929-ab13-4356-b758-6be796546417/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E12
-https://d13snj70thqlha.cloudfront.net/cfefef19-3625-42e2-acbe-facdf9355c54/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E13
-https://d13snj70thqlha.cloudfront.net/9e7ee1ce-eadd-48ac-a2ba-99ce61ac2d8c/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E14
-https://d13snj70thqlha.cloudfront.net/27e78bdc-0c20-4142-8b3d-b37165907f06/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E15
-https://d13snj70thqlha.cloudfront.net/e303944b-3d25-46dd-8442-9139aa964c82/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E16
-https://d13snj70thqlha.cloudfront.net/2cf36a3d-322e-4e98-a66c-246883be0a76/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E17
-https://d13snj70thqlha.cloudfront.net/ae250fc2-949d-4b68-87ca-1d942b44685a/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E18
-https://d13snj70thqlha.cloudfront.net/f9863a5d-971c-4d76-93fe-00df3c333cb2/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E19
-https://d13snj70thqlha.cloudfront.net/d1430fa0-1416-4208-b435-36ed889b8b83/manifest.m3u8
-#EXTINF:-1 group-title="Kinabalu Aku Rindu" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/KinabaluAkuRindu-s1-e1/kinabaluakurindu_tb.JPG",Kinabalu Aku Rindu S01 E20
-https://d13snj70thqlha.cloudfront.net/7aa3b13b-909a-46d5-aaad-6eb6f573a56c/manifest.m3u8
 
 -----MORE_SPORTS------
 
@@ -1538,7 +1486,15 @@ https://webudi.openhd.lol/lb/premium48/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium73/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-logo="https://i.imgur.com/znvSFXB.png" group-title="MORE SPORTS",SportsNet World CANADA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium410/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-logo="https://i.imgur.com/D3hh0yI.png" group-title="MORE SPORTS",SportsNet One CANADA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium411/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 
 
