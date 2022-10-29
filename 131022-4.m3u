@@ -416,7 +416,8 @@ http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52862
 
 ----------------SPORTS XTRA---------------------
 
-#EXTINF:0 tvg-id="beINSportsEnglish1.qa" tvg-name="beIN SPORTS1 ENGLISH" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="SPORTS XTRA",beIN Sports English 1
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" tvg-name="
+1 ENGLISH" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="SPORTS XTRA",beIN Sports English 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream=inputstream.adaptive
@@ -623,60 +624,61 @@ https://webudi.openhd.lol/lb/premium90/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium46/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="BeIn Sports Premium 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-1-761.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 1 Premium
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-1-761.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 1 Premium
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/76
 https://webudi.openhd.lol/lb/premium98/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="BeIn Sports Premium 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2 Premium
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2 Premium
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/75
 https://webudi.openhd.lol/lb/premium99/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="beIN SPORTS3 PREMIUM" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 3 Premium
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 3 Premium
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium100/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/74
 
-#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="https://png.pngitem.com/pimgs/s/770-7706168_bein-sport-1-png-transparent-png.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 1 TURKIYE
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://png.pngitem.com/pimgs/s/770-7706168_bein-sport-1-png-transparent-png.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 1 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium62/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webudi.openhd.lol/lb/premium91/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/322
 
-#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6591.1491350441.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2 TURKIYE
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6591.1491350441.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium63/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webudi.openhd.lol/lb/premium92/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/320
 
-#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 3 TURKIYE
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 3 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium64/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webudi.openhd.lol/lb/premium93/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/319
 
-#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 4 TURKIYE
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium67/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webudi.openhd.lol/lb/premium94/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/318
 
-#EXTINF:-1 tvg-id="beINSports5Turkey.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 5 TURKIYE
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium95/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/317
 
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 6 QATAR
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/316
+https://webudi.openhd.lol/lb/premium96/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/316
 
-#EXTINF:-1 tvg-id="beINSports7Turkey.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 7 TURKIYE
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS GLOBAL",beIN Sports 7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium97/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
@@ -1506,4 +1508,8 @@ https://webudi.openhd.lol/lb/premium56/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium414/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-seven-297.png" group-title="MORE SPORTS",SuperSport LaLiga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium415/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
