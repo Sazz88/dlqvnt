@@ -359,41 +359,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 ----------------SPORTS XTRA---------------------
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SPORTS XTRA" ch-number="811" tvg-logo="https://i.ibb.co/1bYD50N/assp.png",Astro Supersport 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpegts
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
-#http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121198&extension=ts&play_token=BOAeBoOX3V
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpegts
-#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-logo="https://ia800804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png" group-title="SPORTS XTRA",Astro SuperSport 2
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
-#http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121199&extension=ts&play_token=SqVsO3O6I2
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpegts
-#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="SPORTS XTRA",Astro Supersport 3
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
-#http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121200&extension=ts&play_token=O5Nw5KvFJ4
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpegts
-#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a256.png" group-title="SPORTS XTRA",Astro Supersport 4
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
-#http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121201&extension=ts&play_token=Qf3Pe4Yuep
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
-
-#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP5" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS XTRA",Astro Supersport 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpegts
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115619&extension=ts&play_token
-#http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121202&extension=ts&play_token=IfgkirxGGk
-#http://angeltv.biz:6969/12011201/12011201/86530
-
 #EXTINF:-1 tvg-id="beINSportsCanada.ca" tvg-logo="https://vipotv.com/wp-content/uploads/2021/09/beIN-Sports-Haber-izle-vipotv-turkiye.png" group-title="SPORTS XTRA",beIN Sports HD USA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
