@@ -108,8 +108,8 @@ http://51.79.82.208:16008
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna (C)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Astro Warna
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://rebrand.ly/WarnaMY
-#http://51.79.82.208:16010
+#https://rebrand.ly/WarnaMY
+http://51.79.82.208:16010
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -126,8 +126,7 @@ https://aqfadtv.xyz/live/warna/index.mpd
 https://aqfadtv.xyz/live/citra/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Astro Citra B
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/652.ts
+https://stream.zeehanzgadget.com/citra
 
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura" tvg-logo="https://i.ibb.co/YbNWSYK/aura.png" group-title="MALAYSIA",Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
