@@ -108,8 +108,8 @@ http://51.79.82.208:16008
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna (C)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Astro Warna
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://rebrand.ly/WarnaMY
-http://51.79.82.208:16010
+https://rebrand.ly/WarnaMY
+#https://stream.zeehanzgadget.com/warna
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,15 +118,16 @@ http://51.79.82.208:16010
 https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Astro Citra
+#https://stream.zeehanzgadget.com/citra
+https://rebrand.ly/CitraMY
+
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Astro Citra B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://rebrand.ly/CitraMY
 #https://links.aqfadtv.xyz/citra.mpd
 https://aqfadtv.xyz/live/citra/index.mpd
-
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Astro Citra B
-https://stream.zeehanzgadget.com/citra
 
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura" tvg-logo="https://i.ibb.co/YbNWSYK/aura.png" group-title="MALAYSIA",Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -222,7 +223,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SPORTS" ch-number="811" tvg-logo="https://i.ibb.co/1bYD50N/assp.png",ASSP1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/106.ts
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
@@ -343,7 +343,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium425/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="SPORTS XTRA",beIN Sports English 1
+EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="SPORTS XTRA",beIN Sports English 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream=inputstream.adaptive
