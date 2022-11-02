@@ -971,10 +971,13 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://sub2.neetball.net/live/neet.m3u8
 
-#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/Tokyo-MX-1-live-vipotv-japan-Tokyo-Metropolitan-Television.png" group-title="JAPAN",Tokyo MX
+#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="JAPAN",Tokyo MX1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://movie.mcas.jp/mcas/mx_live_2/chunklist.m3u8
+https://movie.mcas.jp/switcher/mcas1_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png" group-title="JapanTV",WNI LIVE
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 -----------------------TRUE SPORTS----------------------
 
