@@ -1011,7 +1011,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
-#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ATX_Networks_Logo.png" group-title="JAPAN",ATX
+EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ATX_Networks_Logo.png" group-title="JAPAN",ATX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://sub2.neetball.net/live/neet.m3u8
