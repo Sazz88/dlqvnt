@@ -512,6 +512,51 @@ https://webudi.openhd.lol/lb/premium414/index.m3u8|ExoPlayerLib/2.13.2=&referer=
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium415/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SPORTS XTRA",Sky Sport 1 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium588/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SPORTS XTRA",Sky Sport 2 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium589/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SPORTS XTRA",Sky Sport 3 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium590/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SPORTS XTRA",Sky Sport 4 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium591/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SPORTS XTRA",Sky Sport 5 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium592/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SPORTS XTRA",Sky Sport 6 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium593/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SPORTS XTRA",Sky Sport 7 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium594/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="SPORTS XTRA",Sky Sport PL NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium595/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SPORTS XTRA",Sky Sport 9 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium596/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.vod-logo.net/photos/5bc9d44d3ef7efdf24686d247ab8b731.jpg" group-title="SPORTS XTRA",DUBAI SPORT 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
