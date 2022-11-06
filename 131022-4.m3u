@@ -811,7 +811,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=bb5e8d918097e067ab1bc7e3a9e68410:dbda57d3de69f5e4b78ff2cc73d8a51a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-#EXTINF:-1 tvg-id="iQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="MOVIES",IQIYI HD
+#EXTINF:-1 tvg-id="iQIYI" ch-number="300" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/iqiyi.png" group-title="MOVIES",IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fed51001c357a9224f8221161313f010:7e0183501f83df2174844c03011fb491
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
@@ -845,24 +845,24 @@ https://live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 https://live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/35484
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/K_Movies_Pinoy_logojuly2019.png", NEW KMOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/new-k-movies.png", NEW KMOVIES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tinyurl.com/TiviMe-NewKMovies
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://spng.pinpng.com/pngs/s/471-4717395_tribeca-film-festival-hd-png-download.png", MovieSphere (UK)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/moviesphere.png", MovieSphere (UK)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tinyurl.com/MovieSphere
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.downtime.report/assets/img/sites/site-279.png", AsianCrush
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/asian-crush.png", AsianCrush
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bit.ly/3DVAp5P
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://vipotv.com/wp-content/uploads/2021/10/24-Hour-Free-Movies-live-vipotv-america-english.png", 24 Hour Free Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/24hrs-free-movies.png", 24 Hour Free Movies
 https://bit.ly/3dHN7dQ
 
 #EXTINF:-1 tvg-id="Galaxy.id" group-title="MOVIES" tvg-logo="https://i.ibb.co/y8mYp3m/KM.png",Galaxy
@@ -877,12 +877,12 @@ https://live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 https://live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #http://iptvid.my.id/hmm/glxprem.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="" tvg-id="ActionHollywoodMovies.hk",Action Hollywood Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/action-hollywood-movies.png" tvg-id="ActionHollywoodMovies.hk",Action Hollywood Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://vipotv.com/wp-content/uploads/2021/02/The-Film-Detective-live-vipotv.png" ,The Film Detective
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/the-film-detective.png" ,The Film Detective
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
