@@ -143,17 +143,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #https://links.aqfadtv.xyz/rania.mpd
 
-#EXTINF:-1 tvg-id="GoShopBAARU" group-title="MALAYSIA" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",Go Shop BAARU
+#EXTINF:-1 tvg-id="GoShopBAARU" group-title="MALAYSIA" ch-number="111" tvg-logo="https://raw.githubusercontent.com/dlqvnt/dlqvnt/main/logo/goshop.png",Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=930792941220753511b6c2efc5317b10:13acecaf90b59fb0c94115b04be71847
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GoShopRUUMA" ch-number="118" group-title="MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",Go Shop RUUMA
+#EXTINF:-1 tvg-id="GoShopRUUMA" ch-number="118" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/dlqvnt/dlqvnt/main/logo/goshop.png",Go Shop RUUMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66a233a633db6f5137a7b4b1e27bed10:f2e7dbef2f0baf924d93f3e0c1a598fa
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GoShopGAAYA" ch-number="120" group-title="MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",Go Shop GAAYA
+#EXTINF:-1 tvg-id="GoShopGAAYA" ch-number="120" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/dlqvnt/dlqvnt/main/logo/goshop.png",Go Shop GAAYA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6458dac9edfe282465c7b0cd1ca0e010:9181b8041ae036047abde8a674d31b90
 https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
@@ -168,20 +168,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 #http://210.210.155.37/qwr9ew/s/s28/index.m3u8|User-Agent=Lavf/56.15.102
 https://live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://vipotv.com/wp-content/uploads/2019/06/eman-channel-vipotv.png",eman channel
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/eman.png",eman channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/IQRA-TV-vipotv.png",IQRA TV
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/iqra.png",IQRA TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515939_ico.png?ts=1657341923" group-title="ISLAMIC",SAUDI SUNNAH TV
+#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/saudi-sunnah.png" group-title="ISLAMIC",SAUDI SUNNAH TV
 http://210.210.155.37/qwr9ew/s/s27/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19746211_ico.png?ts=1654806164" group-title="ISLAMIC",TVIKIM
+#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/ikimtv.png" group-title="ISLAMIC",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/fqypHb1/JD.png",Tawaf TV
@@ -197,12 +197,12 @@ https://live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png" group-title="SPORTS",unifi Sports 1
+#EXTINF:-1 tvg-ID="unifi Sports 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/unifi-sports-1.png" group-title="SPORTS",unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png" group-title="SPORTS",unifi Sports 2
+#EXTINF:-1 tvg-ID="unifi Sports 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/unifi-sports-2.png" group-title="SPORTS",unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -289,7 +289,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec837724b4265d2e127e65c542aee410:0ce930620687ab1df1cf6544f2dc0013
-#EXTINF:-1 tvg-id="beINSports3" group-title="SPORTS" ch-number="819" tvg-logo="https://ia800602.us.archive.org/0/items/BeinSports3hd/bein%20sports%203hd.png",beIN Sports 3
+#EXTINF:-1 tvg-id="beINSports3" group-title="SPORTS" ch-number="819" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-sports-3.png",beIN Sports 3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -312,7 +312,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=782f32d9501ac50dfd783671ade95210:9690dcf2368b1664680a8099125ccca9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTINF:-1 tvg-id="RedBullTV" group-title="SPORTS" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",RedBull TV
+#EXTINF:-1 tvg-id="RedBullTV" group-title="SPORTS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/redbulltv.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="Golf" tvg-name="Golf Channel" tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="SPORTS",Golf Channel
@@ -320,12 +320,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bef29d5caac3628eb1efae8a215fae10:645a0014ea459a86cfa72cf8137bb4a7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
-#EXTINF:-1 tvg-id="PremierSports" group-title="SPORTS" ch-number="823" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",Premier Sports HD
+#EXTINF:-1 tvg-id="PremierSports" group-title="SPORTS" ch-number="823" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/premier-sports.png",Premier Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfc32f4dc3dac49b34708ded20364610:025dcec778861dd1e40cce4dd35e73a4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroCricket.my" group-title="SPORTS" ch-number="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket
+#EXTINF:-1 tvg-id="AstroCricket.my" group-title="SPORTS" ch-number="824" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-cricket.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a5ce785d63f164f5be079a0aa9b6210:d388cbf715f1bb08901a55a7db7f26c0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
