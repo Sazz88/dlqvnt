@@ -705,7 +705,7 @@ https://webudi.openhd.lol/lb/premium97/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="KIDS",Astro Ceria
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TA-DAA!" ch-number="612" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" group-title="KIDS" ,612 TA-DAA!
+#EXTINF:-1 tvg-id="TA-DAA!" ch-number="612" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/ta-daa.png" group-title="KIDS" ,TA-DAA!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b398595696c2d609a8a1c3dc27af710:cf14a926974812acaadcc2c986f7ed4d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
@@ -730,32 +730,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=3e4bcc300dc5f243ba5d5b4efca9fd10:364bdb669b85e49ef93d0de8b9f31cf3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="KIDS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",Moonbug Kids
+#EXTINF:-1 tvg-id="MoonbugKids" group-title="KIDS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/moonbug-kids.png" ch-number="618",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5f27fe9eb27df6fc1baf702421edb10:3942434ec0c37db16af8908d3b65ad61
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
+#EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/horee.png" group-title="KIDS",Horee!
 http://tvn.x10.mx/1/master-4.m3u8?dl=1
 
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic646.jpg" group-title="KIDS",Disney Channel US
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/disney-channel.png" group-title="KIDS",Disney Channel US
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium312/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic647.jpg" group-title="KIDS",Disney XD US
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/disney-xd.png" group-title="KIDS",Disney XD US
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium314/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-kids-vipotv.png" group-title="KIDS",EBS Kids
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/ebs-kids.png" group-title="KIDS",EBS Kids
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ConTV.us" tvg-logo="https://vipotv.com/wp-content/uploads/2020/11/contv-vipotv.png" group-title="KIDS",CON TV
+#EXTINF:-1 tvg-id="ConTV.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/con-tv.png" group-title="KIDS",CON TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/512x288_840400/index.m3u8
