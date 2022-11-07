@@ -942,7 +942,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76ac661111eadf6ffde0dcdbd16fcb10:24b391c868de298804403a024e6ce7de
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS WORLD" tvg-logo="https://www.logotypes101.com/logos/441/93B57FB108E9BF746E85D398B26E628B/kbsworld.png" group-title="KOREA",KBS WORLD
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS WORLD" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/kbs-world.png" group-title="KOREA",KBS WORLD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
@@ -1192,7 +1192,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=8762b5ff9680955e720e5ecb5ce78a10:187d7e7cb322853a0b485c47a7a12135
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Primetime" group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/PRIMEtime.png",Primetime
+#EXTINF:-1 tvg-id="Primetime" group-title="ENTERTAINMENT" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/primetime.png",Primetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaaa02f58d19457c6385bf2831706f10:7294ff05390550e09df76ef3b697f8da
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
@@ -1207,35 +1207,35 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/xMTGjYM/CRIME.png" group-title="ENTERTAINMENT",Crime Investigation
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
-#EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497711_ico.png?ts=1660524436" group-title="ENTERTAINMENT",Rock Entertainment 
+#EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ent.png" group-title="ENTERTAINMENT",Rock Entertainment 
 http://210.210.155.37/dr9445/h/h16/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515958_ico.png?ts=1660524537" group-title="ENTERTAINMENT",Rock Extreme
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ext.png" group-title="ENTERTAINMENT",Rock Extreme
 http://210.210.155.37/dr9445/h/h15/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="ComedyCentralUK.uk" tvg-logo="https://time4tv.stream/images/comedycentral.png" group-title="ENTERTAINMENT",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentralUK.uk" tvg-logo=https://github.com/dlqvnt/dlqvnt/raw/main/logo/comedy-central.png" group-title="ENTERTAINMENT",Comedy Central
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium310/index.m3u8
 
-#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://time4tv.stream/images/cbs.png" group-title="ENTERTAINMENT",CBS
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/cbs.png" group-title="ENTERTAINMENT",CBS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium52/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="ENTERTAINMENT",Investigation Discovery
+#EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/investigation-discovery.png" group-title="ENTERTAINMENT",Investigation Discovery
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium324/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="ENTERTAINMENT",Showtime
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/showtime.png" group-title="ENTERTAINMENT",Showtime
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium333/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Spike_TV-logo-2943DB10E5-seeklogo.com.png" group-title="ENTERTAINMENT",Spike
+#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/spike.png" group-title="ENTERTAINMENT",Spike
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium321/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
@@ -1326,7 +1326,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #KODIPROP:inputstream.adaptive.license_key=aa3ffd5b0ad254ca7b23c85c240f4910:c17b80d133522c555b4c10ad6a142750
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1 tvg-id="123" group-title="NEWS" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 tvg-id="123" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/699f64c0c071715a9da79dffcbe6a1c44718a8a6/logo/berita-rtm.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/chQwMP9/bbc.png" group-title="NEWS",BBC World News
@@ -1334,27 +1334,27 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_key=17d5d79b705851bf7fb32a9021d56d10:839ae835984e66772b70621dd5d5318b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="NEWS" tvg-logo="https://i.imgur.com/PszVneu.png" ch-number="513",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/aljazeera.png" ch-number="513",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=566e67da543c043f0fe2a5f371412910:0b997dec90bda7dd6f8f16d3fc914b6c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SkyNews" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" ch-number="514",514 Sky News
+#EXTINF:-1 tvg-id="SkyNews" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skynews.png" ch-number="514",514 Sky News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32732dedac78e80dd81d0af789e5fe10:a69d2840788bf0298f1db62c5943b2a1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CNA" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515",515 CNA
+#EXTINF:-1 tvg-id="CNA" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/cna-sg.png" ch-number="515",515 CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe5edb836e82f122ab940395cbe10210:4fc6c26bdb1df14696ee6e53b0957883
 https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CNBCAsia" group-title="NEWS" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516",516 CNBC Asia HD
+#EXTINF:-1 tvg-id="CNBCAsia" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/cnbc-asia.png" ch-number="516",516 CNBC Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98b593ae7d0d2b488eca960db791c010:56ef03e88c52b9ea7ea73ea0338f6d89
 https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="317" group-title="NEWS" tvg-logo="https://i.postimg.cc/YSLDWW8q/TVBEntertainment-News.png",317 TVB Entertainment News HD
+#EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="317" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tvb-ent.png",317 TVB Entertainment News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cd3bd6eb6c49675dc616b30dcf1db10:13017770bc552725d1a0ba20fa1a2ddd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
