@@ -1418,7 +1418,7 @@ https://webudi.openhd.lol/lb/premium359/index.m3u8|ExoPlayerLib/2.13.2=&referer=
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium363/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="RacingTV.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/racingtv-uk.png group-title="SPORTS XTRA",Racing TV
+#EXTINF:-1 tvg-id="RacingTV.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/racingtv-uk.png" group-title="SPORTS XTRA",Racing TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium555/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
