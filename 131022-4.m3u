@@ -38,17 +38,20 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="MALAYSIA",NTV7
-https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+#https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="MALAYSIA",8TV
-https://aqfadtv.xyz/live/8tv/index.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+#https://aqfadtv.xyz/live/8tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MALAYSIA",TV9
-https://aqfadtv.xyz/live/tv9/index.mpd
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+#https://aqfadtv.xyz/live/tv9/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -140,6 +143,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #https://links.aqfadtv.xyz/rania.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="Dunia Sinema" tvg-chno="128" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/dunia-sinema.png",128 Dunia Sinema HD
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331" group-title="MALAYSIA",HyppSensasi HD 
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503" group-title="MALAYSIA",Inspirasi 
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615" group-title="MALAYSIA",Degup 
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="MALAYSIA" ch-number="111" tvg-logo="https://raw.githubusercontent.com/dlqvnt/dlqvnt/main/logo/goshop.png",Go Shop
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
@@ -241,6 +264,7 @@ https://aqfadtv.xyz/live/supersport2/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3
 https://webudi.openhd.lol/lb/premium125/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+#http://51.79.82.208:16062
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3 (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -334,7 +358,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCricket.my" group-title="SPORTS" ch-number="824" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-cricket.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a5ce785d63f164f5be079a0aa9b6210:d388cbf715f1bb08901a55a7db7f26c0
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-id="eGGNetwork.my" tvg-name="eGG TV" tvg-logo="https://i.ibb.co/vkvd2d6/swce.png" group-title="SPORTS",eGG TV
@@ -763,7 +787,8 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ConTV.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/con-tv.png" group-title="KIDS",CON TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/512x288_840400/index.m3u8
+https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+#https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/512x288_840400/index.m3u8
 
 ---------------MOVIES-----------------------
 
@@ -848,11 +873,6 @@ https://live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/35484
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 group-title="MOVIES" tvg-id="Dunia Sinema" tvg-chno="128" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/dunia-sinema.png",128 Dunia Sinema HD
-https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/new-k-movies.png", NEW KMOVIES
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1104,7 +1124,8 @@ https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=h
 
 #EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-4.png" group-title="TRUE SPORTS",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+https://cdn.googlecdnforstreaming.live/dbf789/tpf4/chunks.m3u8
+#https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-5.png" group-title="TRUE SPORTS",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
