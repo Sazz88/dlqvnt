@@ -151,12 +151,12 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/ 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331" group-title="MALAYSIA",HyppSensasi HD 
+#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sensasi.png" group-title="MALAYSIA",Sensasi HD 
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/ 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503" group-title="MALAYSIA",Inspirasi 
+#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/inspirasi.png" group-title="MALAYSIA",Inspirasi 
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -306,12 +306,12 @@ https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-#EXTINF:-1 tvg-id="AstroSupersportUHD" ch-number="805" tvg-logo="https://quake.com.my/images/2021/channels/supersport_uhd.png" group-title="Sports",ASSP UHD 1
+#EXTINF:-1 tvg-id="AstroSupersportUHD" ch-number="805" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/assp-uhd.png" group-title="Sports",ASSP UHD 1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1602
-EXTINF:-1 tvg-id="AstroSupersportUHD2" ch-number="806" tvg-logo="https://quake.com.my/images/2021/channels/supersport_uhd.png" group-title="Sports",ASSP UHD 2
+EXTINF:-1 tvg-id="AstroSupersportUHD2" ch-number="806" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/assp-uhd.png" group-title="Sports",ASSP UHD 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beINSports" group-title="SPORTS" ch-number="817" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png",beIN Sports 1
