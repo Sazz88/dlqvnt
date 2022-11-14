@@ -1188,11 +1188,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/xMTGjYM/CRIME.png" group-title="ENTERTAINMENT",Crime Investigation
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
-#EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ent.png" group-title="ENTERTAINMENT",Rock Entertainment 
+EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ent.png" group-title="ENTERTAINMENT",Rock Entertainment 
 http://210.210.155.37/dr9445/h/h16/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ext.png" group-title="ENTERTAINMENT",Rock Extreme
+EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ext.png" group-title="ENTERTAINMENT",Rock Extreme
 http://210.210.155.37/dr9445/h/h15/index.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/ficomtv.png" group-title="ENTERTAINMENT",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralUK.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/comedy-central.png" group-title="ENTERTAINMENT",Comedy Central
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
