@@ -1511,6 +1511,7 @@ https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
 http://119.200.131.11:1935/KBCFM/kbcra_aac/chunklist_w1287930796.m3u8
 #EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/radios-150px/9trz2jrmqvcq.png",BOX : K-POP 케이팝 live
 https://boxradio-edge-10.streamafrica.net/kpop
-
+#EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s50603g.png",KBS 2 Radio Cool FM
+https://p.skypeak.cloud/stream.m3u8?type=k&id=25%2Ckv%2Ch%2C%2Cy%2Ck&nr=&auth=9f5c995bbbac98b6a415b32be87c30fd1848067ac51
 
 
