@@ -1487,3 +1487,16 @@ http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 https://astro2.rastream.com/mix
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
+#EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29877.v17.png",TBS eFM
+https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/radios-150px/uCLZMDDnbs.png",SBS 파워FM-SBS 라디오 live
+http://slive.ytn.co.kr:1935/live/fmlive_0624_1.sdp/chunklist_w1822013988.m3u8
+#EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/radios-150px/aBeeJuVcq8.png",EBS 외국어 라디오 (i-radio) live
+https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/GwUL9HWFHr.png",kbc 광주방송 MyFM live
+http://119.200.131.11:1935/KBCFM/kbcra_aac/chunklist_w1287930796.m3u8
+#EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/radios-150px/9trz2jrmqvcq.png",BOX : K-POP 케이팝 live
+https://boxradio-edge-10.streamafrica.net/kpop
+
+
+
