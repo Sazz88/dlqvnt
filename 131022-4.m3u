@@ -1078,9 +1078,10 @@ https://live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/3
 
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="JAPAN",Aniplus ID
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115609&extension=ts&play_token|User-Agent=Lavf/56.15.102
+http://45.126.83.51/dr9445/h/h02/01.m3u8|User-Agent=Lavf/56.15.102
+#http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115609&extension=ts&play_token|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="JAPAN",Aniplus ID (VPN)
+EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="JAPAN",Aniplus ID (VPN)
 http://210.210.155.37/dr9445/h/h02/index.m3u8|User-Agent=Lavf/56.15.102
 #http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
 
@@ -1202,11 +1203,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/xMTGjYM/CRIME.png" group-title="ENTERTAINMENT",Crime Investigation
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
-EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ent.png" group-title="ENTERTAINMENT",Rock Entertainment 
-http://210.210.155.37/dr9445/h/h16/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ent.png" group-title="ENTERTAINMENT",Rock Entertainment 
+#http://210.210.155.37/dr9445/h/h16/index.m3u8|User-Agent=Lavf/56.15.102
+http://210.210.155.35/dr9445/h/h16/01.m3u8|User-Agent=Lavf/56.15.102
 
-EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ext.png" group-title="ENTERTAINMENT",Rock Extreme
-http://210.210.155.37/dr9445/h/h15/index.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rock-ext.png" group-title="ENTERTAINMENT",Rock Extreme
+#http://210.210.155.37/dr9445/h/h15/index.m3u8|User-Agent=Lavf/56.15.102
+http://45.126.83.51/dr9445/h/h15/01.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/ficomtv.png" group-title="ENTERTAINMENT",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
