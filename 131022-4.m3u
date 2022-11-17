@@ -1334,7 +1334,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Astro Bernama" tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="NEWS",Astro Bernama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1114/
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 #EXTINF:-1 tvg-id="123" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/699f64c0c071715a9da79dffcbe6a1c44718a8a6/logo/berita-rtm.png",Berita RTM
@@ -1347,12 +1347,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/aljazeera.png" ch-number="513",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2110/
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2110
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 #EXTINF:-1 tvg-id="SkyNews" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skynews.png" ch-number="514",514 Sky News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2102/
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2102
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CNA" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/cna-sg.png" ch-number="515",515 CNA
@@ -1367,7 +1367,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="317" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tvb-ent.png",317 TVB Entertainment News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5015/
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5015
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN HD" tvg-logo="https://i.ibb.co/PTwNmc8/CNN.png" group-title="NEWS",CNN 
@@ -1515,7 +1515,7 @@ https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
 http://119.200.131.11:1935/KBCFM/kbcra_aac/chunklist_w1287930796.m3u8
 #EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/radios-150px/9trz2jrmqvcq.png",BOX : K-POP 케이팝 live
 https://boxradio-edge-10.streamafrica.net/kpop
-#EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s50603g.png",KBS 2 Radio Cool FM
+EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s50603g.png",KBS 2 Radio Cool FM
 https://p.skypeak.cloud/stream.m3u8?type=k&id=25%2Ckv%2Ch%2C%2Cy%2Ck&nr=&auth=9f5c995bbbac98b6a415b32be87c30fd1848067ac51
 
 
