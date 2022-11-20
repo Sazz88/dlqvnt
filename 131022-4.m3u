@@ -4,7 +4,7 @@
 
 EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
-#https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
+#https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -17,7 +17,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
-EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MALAYSIA",TV2
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MALAYSIA",TV2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1339,8 +1339,9 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-@EXTINF:-1 tvg-id="123" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/699f64c0c071715a9da79dffcbe6a1c44718a8a6/logo/berita-rtm.png",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
+#EXTINF:-1 tvg-id="123" group-title="NEWS" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/699f64c0c071715a9da79dffcbe6a1c44718a8a6/logo/berita-rtm.png",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
 
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/chQwMP9/bbc.png" group-title="NEWS",BBC World News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
