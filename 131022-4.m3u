@@ -36,7 +36,8 @@ http://51.79.82.208:16003
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="BR1" tvg-name="TV6" tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="MALAYSIA",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
@@ -69,8 +70,9 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #EXTINF:-1 tvg-id="RTMTVOkey.my" tvg-name="Okey" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="MALAYSIA",Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-#https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -99,7 +101,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-name="AstroRia.my" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Ria (B)
+@EXTINF:-1 tvg-name="AstroRia.my" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Ria (B)
 https://aqfadtv.xyz/live/ria/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -115,26 +117,26 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #http://51.79.82.208:16008
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna (C)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Warna
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna(B)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Warna
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://aqfadtv.xyz/live/warna/index.mpd
+
+@EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna (C)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Warna B
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.82.208:16010
 #https://stream.zeehanzgadget.com/warna
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna(B)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Warna B
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://aqfadtv.xyz/live/warna/index.mpd
-
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Citra
-#https://stream.zeehanzgadget.com/citra
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
-
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Citra B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 https://aqfadtv.xyz/live/citra/index.mpd
+
+@EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Citra B
+#https://stream.zeehanzgadget.com/citra
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura" tvg-logo="https://i.ibb.co/YbNWSYK/aura.png" group-title="MALAYSIA",Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
