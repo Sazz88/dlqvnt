@@ -808,6 +808,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 @EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/horee.png" group-title="KIDS",Horee!
 http://tvn.x10.mx/1/master-4.m3u8?dl=1
 
+#EXTINF:-1 tvg-id="tiny.pop.gb" tvg-name="Tiny POP" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png" group-title="KIDS",Baby Shark Tv
+https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZmhhv7/images.png" group-title="KIDS",Lego
+https://legochannel-roku.amagi.tv/playlist404-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFhZ3Pl.png" group-title="KIDS",PBS Kids
+#https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/disney-channel.png" group-title="KIDS",Disney Channel US
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
