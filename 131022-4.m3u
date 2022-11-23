@@ -1127,7 +1127,9 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="TV Tokyo (JOTX-DTV)" group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png",Fuji TV
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="TV Tokyo (JOTX-DTV)" group-title="JAPAN" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/fuji-tv.png",Fuji TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fujitv3.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 tvg-id="TokyoMX.jp" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tokyo-mx.png" group-title="JAPAN",Tokyo MX1
