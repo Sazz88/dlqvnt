@@ -1274,6 +1274,11 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/ficomtv.png" group-title="ENTERTAINMENT",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/fox-network-usa.png" group-title="ENTERTAINMENT",FOX Network USA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium54/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentralUK.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/comedy-central.png" group-title="ENTERTAINMENT",Comedy Central
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
