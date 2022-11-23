@@ -688,6 +688,11 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 -------------------BEIN-SPORTS-QATAR------------------
 
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic868.jpg" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS ENGLISH 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
