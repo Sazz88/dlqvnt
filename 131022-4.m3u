@@ -1276,7 +1276,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV+1.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/itv1.png" group-title="ENTERTAINMENT",itv1 UK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium54/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webudi.openhd.lol/lb/premium350/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/fox-network-usa.png" group-title="ENTERTAINMENT",FOX Network USA
 #KODIPROP:inputstream=inputstream.adaptive
