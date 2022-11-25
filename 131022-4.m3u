@@ -35,8 +35,7 @@ http://51.79.82.208:16003
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="BR1" tvg-name="TV6" tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="MALAYSIA",TV6
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
@@ -69,9 +68,8 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #EXTINF:-1 tvg-id="RTMTVOkey.my" tvg-name="Okey" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="MALAYSIA",Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -231,7 +229,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="SPORTS",Sukan RTM
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
 
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
