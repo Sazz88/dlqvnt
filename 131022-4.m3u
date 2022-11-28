@@ -1183,6 +1183,69 @@ https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
 #https://freelive.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
 #http://183.89.246.119:8010/play/a00d
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND",ALTV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AmarinTV.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="THAILAND", AMARIN 34 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
+
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://e7.pngegg.com/pngimages/557/835/png-clipart-thailand-channel-7-royal-thai-army-radio-and-television-channel-5-7-miscellaneous-television-thumbnail.png" group-title="THAILAND", BBTV CHANNEL 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/640px-Ch3HDLogo.png" group-title="THAILAND", CHANNEL 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="THAILAND", GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chgmm3/index.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://seeklogo.com/images/M/mcot-hd-logo-D6F286C4DD-seeklogo.com.png" group-title="THAILAND", MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND", MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
+
+#EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND", NATION TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
+
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/NBT_Thailand.svg/revision/latest/scale-to-width-down/250?cb=20190902011516" group-title="THAILAND", NBT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/One_31_Logo.png/220px-One_31_Logo.png" group-title="THAILAND", ONE 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="THAILAND", PPTV  36 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Ch_8_2016_flat.svg/revision/latest/scale-to-width-down/250?cb=20190722060823" group-title="THAILAND", THAI CHANNEL 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="THAILAND", THAI TV 5 HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Trtvbug2017.png/revision/latest/scale-to-width-down/250?cb=20170804120155" group-title="THAILAND", THAIRATH TV 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
+
+#EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg" group-title="THAILAND", TNN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/white-channel-9194.webp" group-title="THAILAND", WHITE CHANNEL 28
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="TrueSports1.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports1.png" group-title="THAILAND",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
