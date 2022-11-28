@@ -925,7 +925,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="MOVIES" tvg-id="411" tvg-name="CinemaWorld HD", CINEMA WORLD
+#EXTINF:0 tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="MOVIES" tvg-id="CinemaWorld.my" tvg-name="CinemaWorld HD", CINEMA WORLD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
@@ -973,13 +973,11 @@ https://bit.ly/3dHN7dQ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-#http://iptvid.my.id/hmm/glx.m3u8
 
 #EXTINF:-1 tvg-id="GalaxyPremium.id" group-title="MOVIES" tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png",Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-#http://iptvid.my.id/hmm/glxprem.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/action-hollywood-movies.png" tvg-id="ActionHollywoodMovies.hk",Action Hollywood Movies
 #KODIPROP:inputstream=inputstream.adaptive
