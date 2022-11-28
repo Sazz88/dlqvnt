@@ -1228,7 +1228,7 @@ https://cdn.googlecdnforstreaming.live/dbf789/tpf4/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TrueTennisHD.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-tennis.png" group-title="THAILAND",True Tennis
+#EXTINF:-1 tvg-id="TrueTennis.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-tennis.png" group-title="THAILAND",True Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
