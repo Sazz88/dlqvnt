@@ -1166,54 +1166,60 @@ https://movie.mcas.jp/switcher/mcas1_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 
------------------------TRUE SPORTS----------------------
+-----------------------THAILAND----------------------
 
-#EXTINF:-1 tvg-id="TrueSportHD.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports1.png" group-title="TRUE SPORTS",True Sports 1
+#EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/True4U4.png" group-title="THAILAND", TRUE4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
+#https://freelive.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
+#http://183.89.246.119:8010/play/a00d
+
+#EXTINF:-1 tvg-id="TrueSportHD.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports1.png" group-title="THAILAND",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports2.png" group-title="TRUE SPORTS",True Sports 2
+#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports2.png" group-title="THAILAND",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSportHD.th3" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports3.png" group-title="TRUE SPORTS",True Sports 3
+#EXTINF:-1 tvg-id="TrueSportHD.th3" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports3.png" group-title="THAILAND",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports4.png" group-title="TRUE SPORTS",True Sports 4
+#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports4.png" group-title="THAILAND",True Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSport5.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports5.png" group-title="TRUE SPORTS",True Sports 5
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports5.png" group-title="THAILAND",True Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports7.png" group-title="TRUE SPORTS",True Sports 7
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports7.png" group-title="THAILAND",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-1.png" group-title="TRUE SPORTS",True Premier Football 1
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-1.png" group-title="THAILAND",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-2.png" group-title="TRUE SPORTS",True Premier Football 2
+#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-2.png" group-title="THAILAND",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-3.png" group-title="TRUE SPORTS",True Premier Football 3
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-3.png" group-title="THAILAND",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-4.png" group-title="TRUE SPORTS",True Premier Football 4
+#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-4.png" group-title="THAILAND",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://cdn.googlecdnforstreaming.live/dbf789/tpf4/chunks.m3u8
 #https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-5.png" group-title="TRUE SPORTS",True Premier Football 5
+#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-pl-5.png" group-title="THAILAND",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="TrueTennisHD.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-tennis.png" group-title="TRUE SPORTS",True Tennis
+#EXTINF:-1 tvg-id="TrueTennisHD.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-tennis.png" group-title="THAILAND",True Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
