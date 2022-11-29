@@ -545,21 +545,6 @@ https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="SPORTS XTRA" tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1",ChampionsTV1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="SPORTS XTRA" tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2",ChampionsTV2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-
-#EXTINF:0 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/champions3.png" group-title="SPORTS XTRA" tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3",ChampionsTV3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tvri-sports.png" group-title="SPORTS XTRA",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
