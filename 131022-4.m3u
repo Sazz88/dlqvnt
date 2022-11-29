@@ -693,48 +693,44 @@ https://webudi.openhd.lol/lb/premium45/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
----FWC QATAR 2022---
-
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="FWC QATAR 2022",beIN SPORTS MAX 1
+-------------------BEIN-SPORTS-QATAR------------------
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
 
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="FWC QATAR 2022",beIN SPORTS MAX 2
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="FWC QATAR 2022",beIN SPORTS MAX 3
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="FWC QATAR 2022",beIN SPORTS MAX 4
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax5.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="FWC QATAR 2022",beIN SPORTS MAX 5
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="FWC QATAR 2022",beIN SPORTS MAX 6
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
-
-
--------------------BEIN-SPORTS-QATAR------------------
-
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
+@EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium296/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
+
+@EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 3
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
+
+@EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium298/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 4
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
+
+@EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium299/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsMax5.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 5
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
+
+#EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 6
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS ENGLISH 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1013,10 +1009,10 @@ https://filmdetective-plex.amagi.tv/index.m3u8
 
 ------------------------------SG&BRUNEI-----------------------------------------------
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 #EXTINF:-1 group-title="SG&BRUNEI" tvg-id="Ch 5" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/channel-5.png",Channel 5 
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
@@ -1176,6 +1172,11 @@ https://nhk3.mov3.co/hls/nhk.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Tokyo (JOTX-DTV)" group-title="JAPAN" tvg-logo="https://i.imgur.com/rls8NVc.png",TV Asahi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="TV Tokyo (JOTX-DTV)" group-title="JAPAN" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/fuji-tv.png",Fuji TV
 #KODIPROP:inputstream=inputstream.adaptive
