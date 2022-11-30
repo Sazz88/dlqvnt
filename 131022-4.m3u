@@ -713,6 +713,9 @@ http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
 #EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 6
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
 
+#EXTINF:-1 tvg-id="foxsports1" tvg-name="fox sports 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png",FOX SPORTS 1
+https://ed-n2.edghst.me/plyvivo/g8r2x3r1o9e5k2i2g7w2/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS ENGLISH 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
