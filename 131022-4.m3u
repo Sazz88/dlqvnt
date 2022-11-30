@@ -1177,8 +1177,8 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/True4U4.png" group-title="THAILAND",TRUE4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
-#https://freelive.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+#https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
 #http://183.89.246.119:8010/play/a00d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND",ALTV 4
