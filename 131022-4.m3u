@@ -1023,9 +1023,9 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rtb-sukmaindera.png" group-title="SG&BRUNEI",RTB Sukmaindera(Brunei) 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rtb-go-live.png" group-title="SG&BRUNEI",RTB GO Live (Brunei)
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b1696000_sleng.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rtb-aneka.png" group-title="SG&BRUNEI",RTB Aneka (Brunei)
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 ---------------KOREAN-----------------------
 
