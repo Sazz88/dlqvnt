@@ -345,7 +345,8 @@ https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
 #EXTINF:-1 tvg-id="AstroSupersportUHD" ch-number="805" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/assp-uhd.png" group-title="Sports",ASSP UHD 1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+https://raw.githubusercontent.com/dlqvnt/dlqvnt/main/test/uhd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1602
