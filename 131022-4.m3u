@@ -119,8 +119,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna(B)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-#https://aqfadtv.xyz/live/warna/index.mpd
-http://139.99.96.163:2095/live/User48278/tBw10zkne9/161.ts
+https://aqfadtv.xyz/live/warna/index.mpd
 
 @EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna (C)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Warna B
 #KODIPROP:inputstream=inputstream.adaptive
@@ -132,8 +131,7 @@ http://51.79.82.208:16010
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#https://aqfadtv.xyz/live/citra/index.mpd
-http://139.99.96.163:2095/live/User48278/tBw10zkne9/14.ts
+https://aqfadtv.xyz/live/citra/index.mpd
 
 @EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Citra B
 #https://stream.zeehanzgadget.com/citra
