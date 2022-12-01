@@ -1148,11 +1148,17 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#https://list.iptvcat.com/my_list/s/e849f92dd2b004ecea7998e6898f82c2.m3u8
 
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Tokyo (JOTX-DTV)" group-title="JAPAN" tvg-logo="https://i.imgur.com/rls8NVc.png",TV Asahi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1280px-NHK_General_TV_logo.svg.png",NHK-G
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://list.iptvcat.com/my_list/s/47b71bc5c5a0e8111086a0fc4a689003.m3u8
 
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="TV Tokyo (JOTX-DTV)" group-title="JAPAN" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/fuji-tv.png",Fuji TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1164,9 +1170,25 @@ https://fujitv3.mov3.co/hls/fujitv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://movie.mcas.jp/switcher/mcas1_2/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tokyo-mx.png" group-title="JAPAN",Tokyo MX2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://list.iptvcat.com/my_list/s/2733dcca4001be70c003d4684c8f7018.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/wni.png" group-title="JAPAN",WNI LIVE
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
+#EXTINF:-1 tvg-id="Star1.jp" tvg-logo="https://www.nicepng.com/png/detail/44-444226_star-channel-japan-star-channel-japan-logo-png.png" group-title="JAPAN",Star 1
+https://list.iptvcat.com/my_list/s/76d263564bd6b5b4e1b8e1bc23d7fcc3.m3u8
+
+#EXTINF:-1 tvg-id="Star2.jp" tvg-logo="https://www.nicepng.com/png/detail/44-444226_star-channel-japan-star-channel-japan-logo-png.png" group-title="JAPAN",Star 2
+https://list.iptvcat.com/my_list/s/523fd48efaff9d545d19e203f49ce164.m3u8
+
+#EXTINF:-1 tvg-id="JSports1.jp" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-j-sports-1-1717.png" group-title="JAPAN",JSports 1
+https://list.iptvcat.com/my_list/s/0fa73a38abee1cf4f60990ff400640d4.m3u8
+
+#EXTINF:-1 tvg-id="JSports2.jp" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-j-sports-2-1718.png" group-title="JAPAN",JSports 2
+https://list.iptvcat.com/my_list/s/a686b2dea15d148e150fd8a16c91623b.m3u8
 
 -----------------------THAILAND----------------------
 
