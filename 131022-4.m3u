@@ -1299,7 +1299,8 @@ https://smart-tv.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8|Referer=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #http://210.210.155.37/dr9445/h/h07/index.m3u8|User-Agent=Lavf/56.15.102
-https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+http://45.126.83.51/dr9445/h/h07/01.m3u8|User-Agent=Lavf/56.15.102
+#https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
