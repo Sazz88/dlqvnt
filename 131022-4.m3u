@@ -119,12 +119,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #https://aqfadtv.xyz/live/warna/index.mpd
 http://139.99.96.163:2095/live/User48278/tBw10zkne9/161.ts
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #https://aqfadtv.xyz/live/citra/index.mpd
 http://139.99.96.163:2095/live/User48278/tBw10zkne9/14.ts
 
