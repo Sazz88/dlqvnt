@@ -1245,7 +1245,8 @@ https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer
 
 #EXTINF:-1 tvg-id="TrueSports2.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports2.png" group-title="THAILAND",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/200.ts
 
 #EXTINF:-1 tvg-id="TrueSports3.th" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/true-sports3.png" group-title="THAILAND",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
