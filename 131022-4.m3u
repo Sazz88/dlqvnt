@@ -667,45 +667,45 @@ https://webudi.openhd.lol/lb/premium45/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 -------------------BEIN-SPORTS-QATAR------------------
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/Qatar-TV-live-vipotv-qatar.png" group-title="BEIN SPORTS QATAR",Qatar TV
+@EXTINF:-1 tvg-id="CHN" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/Qatar-TV-live-vipotv-qatar.png" group-title="BEIN SPORTS QATAR",Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
+@EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
 
-@EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium296/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
+@EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
 
-@EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 3
+@EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 3
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
 
-@EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 3
+#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium298/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 4
+@EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 4
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
 
-@EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 4
+#EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium299/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsMax5.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 5
+@EXTINF:-1 tvg-id="beINSportsMax5.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 5
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
 
-#EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 6
+@EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 6
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS ENGLISH 1
